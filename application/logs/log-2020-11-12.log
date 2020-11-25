@@ -1,0 +1,2107 @@
+INFO - 2020-11-12 00:00:07 --> Config Class Initialized
+INFO - 2020-11-12 00:00:07 --> Hooks Class Initialized
+INFO - 2020-11-12 00:00:07 --> Utf8 Class Initialized
+INFO - 2020-11-12 00:00:07 --> URI Class Initialized
+INFO - 2020-11-12 00:00:07 --> Router Class Initialized
+INFO - 2020-11-12 00:00:07 --> Output Class Initialized
+INFO - 2020-11-12 00:00:07 --> Security Class Initialized
+INFO - 2020-11-12 00:00:07 --> Input Class Initialized
+INFO - 2020-11-12 00:00:07 --> Language Class Initialized
+ERROR - 2020-11-12 00:00:07 --> 404 Page Not Found: Wp-admin/install.php
+INFO - 2020-11-12 00:03:52 --> Config Class Initialized
+INFO - 2020-11-12 00:03:52 --> Hooks Class Initialized
+INFO - 2020-11-12 00:03:52 --> Utf8 Class Initialized
+INFO - 2020-11-12 00:03:52 --> URI Class Initialized
+INFO - 2020-11-12 00:03:52 --> Router Class Initialized
+INFO - 2020-11-12 00:03:52 --> Output Class Initialized
+INFO - 2020-11-12 00:03:52 --> Security Class Initialized
+INFO - 2020-11-12 00:03:52 --> Input Class Initialized
+INFO - 2020-11-12 00:03:52 --> Language Class Initialized
+ERROR - 2020-11-12 00:03:52 --> 404 Page Not Found: Wp-admin/install.php
+INFO - 2020-11-12 00:09:15 --> Config Class Initialized
+INFO - 2020-11-12 00:09:15 --> Hooks Class Initialized
+INFO - 2020-11-12 00:09:15 --> Utf8 Class Initialized
+INFO - 2020-11-12 00:09:15 --> URI Class Initialized
+INFO - 2020-11-12 00:09:15 --> Router Class Initialized
+INFO - 2020-11-12 00:09:15 --> Output Class Initialized
+INFO - 2020-11-12 00:09:15 --> Security Class Initialized
+INFO - 2020-11-12 00:09:15 --> Input Class Initialized
+INFO - 2020-11-12 00:09:15 --> Language Class Initialized
+ERROR - 2020-11-12 00:09:15 --> 404 Page Not Found: Wp-admin/install.php
+INFO - 2020-11-12 01:01:20 --> Config Class Initialized
+INFO - 2020-11-12 01:01:20 --> Hooks Class Initialized
+INFO - 2020-11-12 01:01:20 --> Utf8 Class Initialized
+INFO - 2020-11-12 01:01:20 --> URI Class Initialized
+INFO - 2020-11-12 01:01:20 --> Router Class Initialized
+INFO - 2020-11-12 01:01:20 --> Output Class Initialized
+INFO - 2020-11-12 01:01:20 --> Security Class Initialized
+INFO - 2020-11-12 01:01:20 --> Input Class Initialized
+INFO - 2020-11-12 01:01:20 --> Language Class Initialized
+ERROR - 2020-11-12 01:01:20 --> 404 Page Not Found: Wp-admin/install.php
+INFO - 2020-11-12 01:31:29 --> Config Class Initialized
+INFO - 2020-11-12 01:31:29 --> Hooks Class Initialized
+INFO - 2020-11-12 01:31:29 --> Utf8 Class Initialized
+INFO - 2020-11-12 01:31:29 --> URI Class Initialized
+INFO - 2020-11-12 01:31:29 --> Router Class Initialized
+INFO - 2020-11-12 01:31:29 --> Output Class Initialized
+INFO - 2020-11-12 01:31:29 --> Security Class Initialized
+INFO - 2020-11-12 01:31:29 --> Input Class Initialized
+INFO - 2020-11-12 01:31:29 --> Language Class Initialized
+INFO - 2020-11-12 01:31:29 --> Loader Class Initialized
+INFO - 2020-11-12 01:31:29 --> Helper loaded: url_helper
+INFO - 2020-11-12 01:31:29 --> Helper loaded: file_helper
+INFO - 2020-11-12 01:31:29 --> Helper loaded: security_helper
+INFO - 2020-11-12 01:31:29 --> Helper loaded: login_helper
+INFO - 2020-11-12 01:31:29 --> Database Driver Class Initialized
+INFO - 2020-11-12 01:31:29 --> Email Class Initialized
+INFO - 2020-11-12 01:31:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 01:31:29 --> Helper loaded: form_helper
+INFO - 2020-11-12 01:31:29 --> Form Validation Class Initialized
+INFO - 2020-11-12 01:31:29 --> Controller Class Initialized
+INFO - 2020-11-12 01:31:29 --> Model "Menu_model" initialized
+INFO - 2020-11-12 01:31:29 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 01:31:29 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 01:31:29 --> Final output sent to browser
+INFO - 2020-11-12 03:53:23 --> Config Class Initialized
+INFO - 2020-11-12 03:53:23 --> Hooks Class Initialized
+INFO - 2020-11-12 03:53:23 --> Utf8 Class Initialized
+INFO - 2020-11-12 03:53:23 --> URI Class Initialized
+INFO - 2020-11-12 03:53:23 --> Router Class Initialized
+INFO - 2020-11-12 03:53:23 --> Output Class Initialized
+INFO - 2020-11-12 03:53:23 --> Security Class Initialized
+INFO - 2020-11-12 03:53:23 --> Input Class Initialized
+INFO - 2020-11-12 03:53:23 --> Language Class Initialized
+INFO - 2020-11-12 03:53:23 --> Loader Class Initialized
+INFO - 2020-11-12 03:53:23 --> Helper loaded: url_helper
+INFO - 2020-11-12 03:53:23 --> Helper loaded: file_helper
+INFO - 2020-11-12 03:53:23 --> Helper loaded: security_helper
+INFO - 2020-11-12 03:53:23 --> Helper loaded: login_helper
+INFO - 2020-11-12 03:53:23 --> Database Driver Class Initialized
+INFO - 2020-11-12 03:53:23 --> Email Class Initialized
+INFO - 2020-11-12 03:53:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 03:53:23 --> Helper loaded: form_helper
+INFO - 2020-11-12 03:53:23 --> Form Validation Class Initialized
+INFO - 2020-11-12 03:53:23 --> Controller Class Initialized
+INFO - 2020-11-12 03:53:23 --> Model "Menu_model" initialized
+INFO - 2020-11-12 03:53:23 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 03:53:23 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 03:53:23 --> Final output sent to browser
+INFO - 2020-11-12 05:14:49 --> Config Class Initialized
+INFO - 2020-11-12 05:14:49 --> Hooks Class Initialized
+INFO - 2020-11-12 05:14:49 --> Utf8 Class Initialized
+INFO - 2020-11-12 05:14:49 --> URI Class Initialized
+INFO - 2020-11-12 05:14:49 --> Router Class Initialized
+INFO - 2020-11-12 05:14:49 --> Output Class Initialized
+INFO - 2020-11-12 05:14:49 --> Security Class Initialized
+INFO - 2020-11-12 05:14:49 --> Input Class Initialized
+INFO - 2020-11-12 05:14:49 --> Language Class Initialized
+INFO - 2020-11-12 05:14:49 --> Loader Class Initialized
+INFO - 2020-11-12 05:14:49 --> Helper loaded: url_helper
+INFO - 2020-11-12 05:14:49 --> Helper loaded: file_helper
+INFO - 2020-11-12 05:14:49 --> Helper loaded: security_helper
+INFO - 2020-11-12 05:14:49 --> Helper loaded: login_helper
+INFO - 2020-11-12 05:14:49 --> Database Driver Class Initialized
+INFO - 2020-11-12 05:14:49 --> Email Class Initialized
+INFO - 2020-11-12 05:14:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 05:14:49 --> Helper loaded: form_helper
+INFO - 2020-11-12 05:14:49 --> Form Validation Class Initialized
+INFO - 2020-11-12 05:14:49 --> Controller Class Initialized
+INFO - 2020-11-12 05:14:49 --> Model "Menu_model" initialized
+INFO - 2020-11-12 05:14:49 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 05:14:49 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 05:14:49 --> Final output sent to browser
+INFO - 2020-11-12 05:14:49 --> Config Class Initialized
+INFO - 2020-11-12 05:14:49 --> Hooks Class Initialized
+INFO - 2020-11-12 05:14:49 --> Utf8 Class Initialized
+INFO - 2020-11-12 05:14:49 --> URI Class Initialized
+INFO - 2020-11-12 05:14:49 --> Router Class Initialized
+INFO - 2020-11-12 05:14:49 --> Output Class Initialized
+INFO - 2020-11-12 05:14:49 --> Security Class Initialized
+INFO - 2020-11-12 05:14:49 --> Input Class Initialized
+INFO - 2020-11-12 05:14:49 --> Language Class Initialized
+INFO - 2020-11-12 05:14:49 --> Loader Class Initialized
+INFO - 2020-11-12 05:14:49 --> Helper loaded: url_helper
+INFO - 2020-11-12 05:14:49 --> Helper loaded: file_helper
+INFO - 2020-11-12 05:14:49 --> Helper loaded: security_helper
+INFO - 2020-11-12 05:14:49 --> Helper loaded: login_helper
+INFO - 2020-11-12 05:14:49 --> Database Driver Class Initialized
+INFO - 2020-11-12 05:14:49 --> Email Class Initialized
+INFO - 2020-11-12 05:14:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 05:14:49 --> Helper loaded: form_helper
+INFO - 2020-11-12 05:14:49 --> Form Validation Class Initialized
+INFO - 2020-11-12 05:14:49 --> Controller Class Initialized
+INFO - 2020-11-12 05:14:49 --> Model "Menu_model" initialized
+INFO - 2020-11-12 05:14:49 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 05:14:49 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 05:14:49 --> Final output sent to browser
+INFO - 2020-11-12 05:14:54 --> Config Class Initialized
+INFO - 2020-11-12 05:14:54 --> Hooks Class Initialized
+INFO - 2020-11-12 05:14:54 --> Utf8 Class Initialized
+INFO - 2020-11-12 05:14:54 --> URI Class Initialized
+INFO - 2020-11-12 05:14:54 --> Router Class Initialized
+INFO - 2020-11-12 05:14:54 --> Output Class Initialized
+INFO - 2020-11-12 05:14:54 --> Security Class Initialized
+INFO - 2020-11-12 05:14:54 --> Input Class Initialized
+INFO - 2020-11-12 05:14:54 --> Language Class Initialized
+INFO - 2020-11-12 05:14:54 --> Loader Class Initialized
+INFO - 2020-11-12 05:14:54 --> Helper loaded: url_helper
+INFO - 2020-11-12 05:14:54 --> Helper loaded: file_helper
+INFO - 2020-11-12 05:14:54 --> Helper loaded: security_helper
+INFO - 2020-11-12 05:14:54 --> Helper loaded: login_helper
+INFO - 2020-11-12 05:14:54 --> Database Driver Class Initialized
+INFO - 2020-11-12 05:14:54 --> Email Class Initialized
+INFO - 2020-11-12 05:14:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 05:14:54 --> Helper loaded: form_helper
+INFO - 2020-11-12 05:14:54 --> Form Validation Class Initialized
+INFO - 2020-11-12 05:14:54 --> Controller Class Initialized
+INFO - 2020-11-12 05:14:54 --> Model "Menu_model" initialized
+INFO - 2020-11-12 05:14:54 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 05:14:54 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 05:14:54 --> Final output sent to browser
+INFO - 2020-11-12 05:16:24 --> Config Class Initialized
+INFO - 2020-11-12 05:16:24 --> Hooks Class Initialized
+INFO - 2020-11-12 05:16:24 --> Utf8 Class Initialized
+INFO - 2020-11-12 05:16:24 --> URI Class Initialized
+INFO - 2020-11-12 05:16:24 --> Router Class Initialized
+INFO - 2020-11-12 05:16:24 --> Output Class Initialized
+INFO - 2020-11-12 05:16:24 --> Security Class Initialized
+INFO - 2020-11-12 05:16:24 --> Input Class Initialized
+INFO - 2020-11-12 05:16:24 --> Language Class Initialized
+INFO - 2020-11-12 05:16:24 --> Loader Class Initialized
+INFO - 2020-11-12 05:16:24 --> Helper loaded: url_helper
+INFO - 2020-11-12 05:16:24 --> Helper loaded: file_helper
+INFO - 2020-11-12 05:16:24 --> Helper loaded: security_helper
+INFO - 2020-11-12 05:16:24 --> Helper loaded: login_helper
+INFO - 2020-11-12 05:16:24 --> Database Driver Class Initialized
+INFO - 2020-11-12 05:16:24 --> Email Class Initialized
+INFO - 2020-11-12 05:16:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 05:16:24 --> Helper loaded: form_helper
+INFO - 2020-11-12 05:16:24 --> Form Validation Class Initialized
+INFO - 2020-11-12 05:16:24 --> Controller Class Initialized
+INFO - 2020-11-12 05:16:24 --> Model "Menu_model" initialized
+INFO - 2020-11-12 05:16:24 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 05:16:24 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/career.php
+INFO - 2020-11-12 05:16:24 --> Final output sent to browser
+INFO - 2020-11-12 05:16:24 --> Config Class Initialized
+INFO - 2020-11-12 05:16:24 --> Hooks Class Initialized
+INFO - 2020-11-12 05:16:24 --> Utf8 Class Initialized
+INFO - 2020-11-12 05:16:24 --> URI Class Initialized
+INFO - 2020-11-12 05:16:24 --> Router Class Initialized
+INFO - 2020-11-12 05:16:24 --> Output Class Initialized
+INFO - 2020-11-12 05:16:24 --> Security Class Initialized
+INFO - 2020-11-12 05:16:24 --> Input Class Initialized
+INFO - 2020-11-12 05:16:24 --> Language Class Initialized
+INFO - 2020-11-12 05:16:24 --> Loader Class Initialized
+INFO - 2020-11-12 05:16:24 --> Helper loaded: url_helper
+INFO - 2020-11-12 05:16:24 --> Helper loaded: file_helper
+INFO - 2020-11-12 05:16:24 --> Helper loaded: security_helper
+INFO - 2020-11-12 05:16:24 --> Helper loaded: login_helper
+INFO - 2020-11-12 05:16:24 --> Database Driver Class Initialized
+INFO - 2020-11-12 05:16:24 --> Email Class Initialized
+INFO - 2020-11-12 05:16:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 05:16:24 --> Helper loaded: form_helper
+INFO - 2020-11-12 05:16:24 --> Form Validation Class Initialized
+INFO - 2020-11-12 05:16:24 --> Controller Class Initialized
+INFO - 2020-11-12 05:16:24 --> Model "Menu_model" initialized
+INFO - 2020-11-12 05:16:24 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 05:16:24 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/career.php
+INFO - 2020-11-12 05:16:24 --> Final output sent to browser
+INFO - 2020-11-12 05:16:25 --> Config Class Initialized
+INFO - 2020-11-12 05:16:25 --> Hooks Class Initialized
+INFO - 2020-11-12 05:16:25 --> Utf8 Class Initialized
+INFO - 2020-11-12 05:16:25 --> URI Class Initialized
+INFO - 2020-11-12 05:16:25 --> Router Class Initialized
+INFO - 2020-11-12 05:16:25 --> Output Class Initialized
+INFO - 2020-11-12 05:16:25 --> Security Class Initialized
+INFO - 2020-11-12 05:16:25 --> Input Class Initialized
+INFO - 2020-11-12 05:16:25 --> Language Class Initialized
+ERROR - 2020-11-12 05:16:25 --> 404 Page Not Found: Assets/free
+INFO - 2020-11-12 05:16:26 --> Config Class Initialized
+INFO - 2020-11-12 05:16:26 --> Hooks Class Initialized
+INFO - 2020-11-12 05:16:26 --> Utf8 Class Initialized
+INFO - 2020-11-12 05:16:26 --> URI Class Initialized
+INFO - 2020-11-12 05:16:26 --> Router Class Initialized
+INFO - 2020-11-12 05:16:26 --> Output Class Initialized
+INFO - 2020-11-12 05:16:26 --> Security Class Initialized
+INFO - 2020-11-12 05:16:26 --> Input Class Initialized
+INFO - 2020-11-12 05:16:26 --> Language Class Initialized
+INFO - 2020-11-12 05:16:26 --> Loader Class Initialized
+INFO - 2020-11-12 05:16:26 --> Helper loaded: url_helper
+INFO - 2020-11-12 05:16:26 --> Helper loaded: file_helper
+INFO - 2020-11-12 05:16:26 --> Helper loaded: security_helper
+INFO - 2020-11-12 05:16:26 --> Helper loaded: login_helper
+INFO - 2020-11-12 05:16:26 --> Database Driver Class Initialized
+INFO - 2020-11-12 05:16:26 --> Email Class Initialized
+INFO - 2020-11-12 05:16:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 05:16:26 --> Helper loaded: form_helper
+INFO - 2020-11-12 05:16:26 --> Form Validation Class Initialized
+INFO - 2020-11-12 05:16:26 --> Controller Class Initialized
+INFO - 2020-11-12 05:16:26 --> Model "Menu_model" initialized
+INFO - 2020-11-12 05:16:26 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 05:16:26 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 05:16:26 --> Final output sent to browser
+INFO - 2020-11-12 05:16:26 --> Config Class Initialized
+INFO - 2020-11-12 05:16:26 --> Hooks Class Initialized
+INFO - 2020-11-12 05:16:26 --> Utf8 Class Initialized
+INFO - 2020-11-12 05:16:26 --> URI Class Initialized
+INFO - 2020-11-12 05:16:26 --> Router Class Initialized
+INFO - 2020-11-12 05:16:26 --> Output Class Initialized
+INFO - 2020-11-12 05:16:26 --> Security Class Initialized
+INFO - 2020-11-12 05:16:26 --> Input Class Initialized
+INFO - 2020-11-12 05:16:26 --> Language Class Initialized
+INFO - 2020-11-12 05:16:26 --> Loader Class Initialized
+INFO - 2020-11-12 05:16:26 --> Helper loaded: url_helper
+INFO - 2020-11-12 05:16:26 --> Helper loaded: file_helper
+INFO - 2020-11-12 05:16:26 --> Helper loaded: security_helper
+INFO - 2020-11-12 05:16:26 --> Helper loaded: login_helper
+INFO - 2020-11-12 05:16:26 --> Database Driver Class Initialized
+INFO - 2020-11-12 05:16:26 --> Email Class Initialized
+INFO - 2020-11-12 05:16:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 05:16:26 --> Helper loaded: form_helper
+INFO - 2020-11-12 05:16:26 --> Form Validation Class Initialized
+INFO - 2020-11-12 05:16:26 --> Controller Class Initialized
+INFO - 2020-11-12 05:16:26 --> Model "Menu_model" initialized
+INFO - 2020-11-12 05:16:26 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 05:16:26 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 05:16:26 --> Final output sent to browser
+INFO - 2020-11-12 05:16:31 --> Config Class Initialized
+INFO - 2020-11-12 05:16:31 --> Hooks Class Initialized
+INFO - 2020-11-12 05:16:31 --> Utf8 Class Initialized
+INFO - 2020-11-12 05:16:31 --> URI Class Initialized
+INFO - 2020-11-12 05:16:31 --> Router Class Initialized
+INFO - 2020-11-12 05:16:31 --> Output Class Initialized
+INFO - 2020-11-12 05:16:31 --> Security Class Initialized
+INFO - 2020-11-12 05:16:31 --> Input Class Initialized
+INFO - 2020-11-12 05:16:31 --> Language Class Initialized
+INFO - 2020-11-12 05:16:31 --> Loader Class Initialized
+INFO - 2020-11-12 05:16:31 --> Helper loaded: url_helper
+INFO - 2020-11-12 05:16:31 --> Helper loaded: file_helper
+INFO - 2020-11-12 05:16:31 --> Helper loaded: security_helper
+INFO - 2020-11-12 05:16:31 --> Helper loaded: login_helper
+INFO - 2020-11-12 05:16:31 --> Database Driver Class Initialized
+INFO - 2020-11-12 05:16:31 --> Email Class Initialized
+INFO - 2020-11-12 05:16:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 05:16:31 --> Helper loaded: form_helper
+INFO - 2020-11-12 05:16:31 --> Form Validation Class Initialized
+INFO - 2020-11-12 05:16:31 --> Controller Class Initialized
+INFO - 2020-11-12 05:16:31 --> Model "Menu_model" initialized
+INFO - 2020-11-12 05:16:31 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 05:16:31 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 05:16:31 --> Final output sent to browser
+INFO - 2020-11-12 06:28:22 --> Config Class Initialized
+INFO - 2020-11-12 06:28:22 --> Hooks Class Initialized
+INFO - 2020-11-12 06:28:22 --> Utf8 Class Initialized
+INFO - 2020-11-12 06:28:22 --> URI Class Initialized
+INFO - 2020-11-12 06:28:22 --> Router Class Initialized
+INFO - 2020-11-12 06:28:22 --> Output Class Initialized
+INFO - 2020-11-12 06:28:22 --> Security Class Initialized
+INFO - 2020-11-12 06:28:22 --> Input Class Initialized
+INFO - 2020-11-12 06:28:22 --> Language Class Initialized
+INFO - 2020-11-12 06:28:22 --> Loader Class Initialized
+INFO - 2020-11-12 06:28:22 --> Helper loaded: url_helper
+INFO - 2020-11-12 06:28:22 --> Helper loaded: file_helper
+INFO - 2020-11-12 06:28:22 --> Helper loaded: security_helper
+INFO - 2020-11-12 06:28:22 --> Helper loaded: login_helper
+INFO - 2020-11-12 06:28:22 --> Database Driver Class Initialized
+INFO - 2020-11-12 06:28:22 --> Email Class Initialized
+INFO - 2020-11-12 06:28:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 06:28:22 --> Helper loaded: form_helper
+INFO - 2020-11-12 06:28:22 --> Form Validation Class Initialized
+INFO - 2020-11-12 06:28:22 --> Controller Class Initialized
+INFO - 2020-11-12 06:28:22 --> Model "Menu_model" initialized
+INFO - 2020-11-12 06:28:22 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 06:28:22 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 06:28:22 --> Final output sent to browser
+INFO - 2020-11-12 07:12:13 --> Config Class Initialized
+INFO - 2020-11-12 07:12:13 --> Hooks Class Initialized
+INFO - 2020-11-12 07:12:13 --> Utf8 Class Initialized
+INFO - 2020-11-12 07:12:13 --> URI Class Initialized
+INFO - 2020-11-12 07:12:13 --> Router Class Initialized
+INFO - 2020-11-12 07:12:13 --> Output Class Initialized
+INFO - 2020-11-12 07:12:13 --> Security Class Initialized
+INFO - 2020-11-12 07:12:13 --> Input Class Initialized
+INFO - 2020-11-12 07:12:13 --> Language Class Initialized
+INFO - 2020-11-12 07:12:13 --> Loader Class Initialized
+INFO - 2020-11-12 07:12:13 --> Helper loaded: url_helper
+INFO - 2020-11-12 07:12:13 --> Helper loaded: file_helper
+INFO - 2020-11-12 07:12:13 --> Helper loaded: security_helper
+INFO - 2020-11-12 07:12:13 --> Helper loaded: login_helper
+INFO - 2020-11-12 07:12:13 --> Database Driver Class Initialized
+INFO - 2020-11-12 07:12:13 --> Email Class Initialized
+INFO - 2020-11-12 07:12:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 07:12:13 --> Helper loaded: form_helper
+INFO - 2020-11-12 07:12:13 --> Form Validation Class Initialized
+INFO - 2020-11-12 07:12:13 --> Controller Class Initialized
+INFO - 2020-11-12 07:12:13 --> Model "Menu_model" initialized
+INFO - 2020-11-12 07:12:13 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 07:12:13 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 07:12:13 --> Final output sent to browser
+INFO - 2020-11-12 08:22:05 --> Config Class Initialized
+INFO - 2020-11-12 08:22:05 --> Hooks Class Initialized
+INFO - 2020-11-12 08:22:05 --> Utf8 Class Initialized
+INFO - 2020-11-12 08:22:05 --> URI Class Initialized
+INFO - 2020-11-12 08:22:05 --> Router Class Initialized
+INFO - 2020-11-12 08:22:05 --> Output Class Initialized
+INFO - 2020-11-12 08:22:05 --> Security Class Initialized
+INFO - 2020-11-12 08:22:05 --> Input Class Initialized
+INFO - 2020-11-12 08:22:05 --> Language Class Initialized
+INFO - 2020-11-12 08:22:05 --> Loader Class Initialized
+INFO - 2020-11-12 08:22:05 --> Helper loaded: url_helper
+INFO - 2020-11-12 08:22:05 --> Helper loaded: file_helper
+INFO - 2020-11-12 08:22:05 --> Helper loaded: security_helper
+INFO - 2020-11-12 08:22:05 --> Helper loaded: login_helper
+INFO - 2020-11-12 08:22:05 --> Database Driver Class Initialized
+INFO - 2020-11-12 08:22:05 --> Email Class Initialized
+INFO - 2020-11-12 08:22:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 08:22:05 --> Helper loaded: form_helper
+INFO - 2020-11-12 08:22:05 --> Form Validation Class Initialized
+INFO - 2020-11-12 08:22:05 --> Controller Class Initialized
+INFO - 2020-11-12 08:22:05 --> Model "Menu_model" initialized
+INFO - 2020-11-12 08:22:05 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 08:22:05 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 08:22:05 --> Final output sent to browser
+INFO - 2020-11-12 08:22:37 --> Config Class Initialized
+INFO - 2020-11-12 08:22:37 --> Hooks Class Initialized
+INFO - 2020-11-12 08:22:37 --> Utf8 Class Initialized
+INFO - 2020-11-12 08:22:37 --> URI Class Initialized
+INFO - 2020-11-12 08:22:37 --> Router Class Initialized
+INFO - 2020-11-12 08:22:37 --> Output Class Initialized
+INFO - 2020-11-12 08:22:37 --> Security Class Initialized
+INFO - 2020-11-12 08:22:37 --> Input Class Initialized
+INFO - 2020-11-12 08:22:37 --> Language Class Initialized
+INFO - 2020-11-12 08:22:37 --> Loader Class Initialized
+INFO - 2020-11-12 08:22:37 --> Helper loaded: url_helper
+INFO - 2020-11-12 08:22:37 --> Helper loaded: file_helper
+INFO - 2020-11-12 08:22:37 --> Helper loaded: security_helper
+INFO - 2020-11-12 08:22:37 --> Helper loaded: login_helper
+INFO - 2020-11-12 08:22:37 --> Database Driver Class Initialized
+INFO - 2020-11-12 08:22:37 --> Email Class Initialized
+INFO - 2020-11-12 08:22:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 08:22:37 --> Helper loaded: form_helper
+INFO - 2020-11-12 08:22:37 --> Form Validation Class Initialized
+INFO - 2020-11-12 08:22:37 --> Controller Class Initialized
+INFO - 2020-11-12 08:22:37 --> Model "Menu_model" initialized
+INFO - 2020-11-12 08:22:37 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 08:22:37 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 08:22:37 --> Final output sent to browser
+INFO - 2020-11-12 10:07:32 --> Config Class Initialized
+INFO - 2020-11-12 10:07:32 --> Hooks Class Initialized
+INFO - 2020-11-12 10:07:32 --> Utf8 Class Initialized
+INFO - 2020-11-12 10:07:32 --> URI Class Initialized
+INFO - 2020-11-12 10:07:32 --> Router Class Initialized
+INFO - 2020-11-12 10:07:32 --> Output Class Initialized
+INFO - 2020-11-12 10:07:32 --> Security Class Initialized
+INFO - 2020-11-12 10:07:32 --> Input Class Initialized
+INFO - 2020-11-12 10:07:32 --> Language Class Initialized
+INFO - 2020-11-12 10:07:32 --> Loader Class Initialized
+INFO - 2020-11-12 10:07:32 --> Helper loaded: url_helper
+INFO - 2020-11-12 10:07:32 --> Helper loaded: file_helper
+INFO - 2020-11-12 10:07:32 --> Helper loaded: security_helper
+INFO - 2020-11-12 10:07:32 --> Helper loaded: login_helper
+INFO - 2020-11-12 10:07:32 --> Database Driver Class Initialized
+INFO - 2020-11-12 10:07:32 --> Email Class Initialized
+INFO - 2020-11-12 10:07:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 10:07:32 --> Helper loaded: form_helper
+INFO - 2020-11-12 10:07:32 --> Form Validation Class Initialized
+INFO - 2020-11-12 10:07:32 --> Controller Class Initialized
+INFO - 2020-11-12 10:07:32 --> Model "Menu_model" initialized
+INFO - 2020-11-12 10:07:32 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 10:07:32 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 10:07:32 --> Final output sent to browser
+INFO - 2020-11-12 10:13:29 --> Config Class Initialized
+INFO - 2020-11-12 10:13:29 --> Hooks Class Initialized
+INFO - 2020-11-12 10:13:29 --> Utf8 Class Initialized
+INFO - 2020-11-12 10:13:29 --> URI Class Initialized
+INFO - 2020-11-12 10:13:29 --> Router Class Initialized
+INFO - 2020-11-12 10:13:29 --> Output Class Initialized
+INFO - 2020-11-12 10:13:29 --> Security Class Initialized
+INFO - 2020-11-12 10:13:29 --> Input Class Initialized
+INFO - 2020-11-12 10:13:29 --> Language Class Initialized
+INFO - 2020-11-12 10:13:29 --> Loader Class Initialized
+INFO - 2020-11-12 10:13:29 --> Helper loaded: url_helper
+INFO - 2020-11-12 10:13:29 --> Helper loaded: file_helper
+INFO - 2020-11-12 10:13:29 --> Helper loaded: security_helper
+INFO - 2020-11-12 10:13:29 --> Helper loaded: login_helper
+INFO - 2020-11-12 10:13:29 --> Database Driver Class Initialized
+INFO - 2020-11-12 10:13:29 --> Email Class Initialized
+INFO - 2020-11-12 10:13:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 10:13:29 --> Helper loaded: form_helper
+INFO - 2020-11-12 10:13:29 --> Form Validation Class Initialized
+INFO - 2020-11-12 10:13:29 --> Controller Class Initialized
+INFO - 2020-11-12 10:13:29 --> Model "Menu_model" initialized
+INFO - 2020-11-12 10:13:29 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 10:13:29 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 10:13:29 --> Final output sent to browser
+INFO - 2020-11-12 10:35:00 --> Config Class Initialized
+INFO - 2020-11-12 10:35:00 --> Hooks Class Initialized
+INFO - 2020-11-12 10:35:00 --> Utf8 Class Initialized
+INFO - 2020-11-12 10:35:00 --> URI Class Initialized
+INFO - 2020-11-12 10:35:00 --> Router Class Initialized
+INFO - 2020-11-12 10:35:00 --> Output Class Initialized
+INFO - 2020-11-12 10:35:00 --> Security Class Initialized
+INFO - 2020-11-12 10:35:00 --> Input Class Initialized
+INFO - 2020-11-12 10:35:00 --> Language Class Initialized
+INFO - 2020-11-12 10:35:00 --> Loader Class Initialized
+INFO - 2020-11-12 10:35:00 --> Helper loaded: url_helper
+INFO - 2020-11-12 10:35:00 --> Helper loaded: file_helper
+INFO - 2020-11-12 10:35:00 --> Helper loaded: security_helper
+INFO - 2020-11-12 10:35:00 --> Helper loaded: login_helper
+INFO - 2020-11-12 10:35:00 --> Database Driver Class Initialized
+INFO - 2020-11-12 10:35:00 --> Email Class Initialized
+INFO - 2020-11-12 10:35:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 10:35:00 --> Helper loaded: form_helper
+INFO - 2020-11-12 10:35:00 --> Form Validation Class Initialized
+INFO - 2020-11-12 10:35:00 --> Controller Class Initialized
+INFO - 2020-11-12 10:35:00 --> Model "Menu_model" initialized
+INFO - 2020-11-12 10:35:00 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 10:35:00 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 10:35:00 --> Final output sent to browser
+INFO - 2020-11-12 10:41:50 --> Config Class Initialized
+INFO - 2020-11-12 10:41:50 --> Hooks Class Initialized
+INFO - 2020-11-12 10:41:50 --> Utf8 Class Initialized
+INFO - 2020-11-12 10:41:50 --> URI Class Initialized
+INFO - 2020-11-12 10:41:50 --> Router Class Initialized
+INFO - 2020-11-12 10:41:50 --> Output Class Initialized
+INFO - 2020-11-12 10:41:50 --> Security Class Initialized
+INFO - 2020-11-12 10:41:50 --> Input Class Initialized
+INFO - 2020-11-12 10:41:50 --> Language Class Initialized
+INFO - 2020-11-12 10:41:50 --> Loader Class Initialized
+INFO - 2020-11-12 10:41:50 --> Helper loaded: url_helper
+INFO - 2020-11-12 10:41:50 --> Helper loaded: file_helper
+INFO - 2020-11-12 10:41:50 --> Helper loaded: security_helper
+INFO - 2020-11-12 10:41:50 --> Helper loaded: login_helper
+INFO - 2020-11-12 10:41:50 --> Database Driver Class Initialized
+INFO - 2020-11-12 10:41:50 --> Email Class Initialized
+INFO - 2020-11-12 10:41:50 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 10:41:50 --> Helper loaded: form_helper
+INFO - 2020-11-12 10:41:50 --> Form Validation Class Initialized
+INFO - 2020-11-12 10:41:50 --> Controller Class Initialized
+INFO - 2020-11-12 10:41:50 --> Model "Menu_model" initialized
+INFO - 2020-11-12 10:41:50 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 10:41:50 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 10:41:50 --> Final output sent to browser
+INFO - 2020-11-12 11:00:19 --> Config Class Initialized
+INFO - 2020-11-12 11:00:19 --> Hooks Class Initialized
+INFO - 2020-11-12 11:00:19 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:00:19 --> URI Class Initialized
+INFO - 2020-11-12 11:00:19 --> Router Class Initialized
+INFO - 2020-11-12 11:00:19 --> Output Class Initialized
+INFO - 2020-11-12 11:00:19 --> Security Class Initialized
+INFO - 2020-11-12 11:00:19 --> Input Class Initialized
+INFO - 2020-11-12 11:00:19 --> Language Class Initialized
+INFO - 2020-11-12 11:00:19 --> Loader Class Initialized
+INFO - 2020-11-12 11:00:19 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:00:19 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:00:19 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:00:19 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:00:19 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:00:19 --> Email Class Initialized
+INFO - 2020-11-12 11:00:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:00:19 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:00:19 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:00:19 --> Controller Class Initialized
+INFO - 2020-11-12 11:00:19 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:00:19 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:00:19 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 11:00:19 --> Final output sent to browser
+INFO - 2020-11-12 11:01:08 --> Config Class Initialized
+INFO - 2020-11-12 11:01:08 --> Hooks Class Initialized
+INFO - 2020-11-12 11:01:08 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:01:08 --> URI Class Initialized
+INFO - 2020-11-12 11:01:08 --> Router Class Initialized
+INFO - 2020-11-12 11:01:08 --> Output Class Initialized
+INFO - 2020-11-12 11:01:08 --> Security Class Initialized
+INFO - 2020-11-12 11:01:08 --> Input Class Initialized
+INFO - 2020-11-12 11:01:08 --> Language Class Initialized
+INFO - 2020-11-12 11:01:08 --> Loader Class Initialized
+INFO - 2020-11-12 11:01:08 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:01:08 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:01:08 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:01:08 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:01:08 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:01:08 --> Email Class Initialized
+INFO - 2020-11-12 11:01:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:01:08 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:01:08 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:01:08 --> Controller Class Initialized
+INFO - 2020-11-12 11:01:08 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:01:08 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:01:08 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 11:01:08 --> Final output sent to browser
+INFO - 2020-11-12 11:08:00 --> Config Class Initialized
+INFO - 2020-11-12 11:08:00 --> Hooks Class Initialized
+INFO - 2020-11-12 11:08:00 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:08:00 --> URI Class Initialized
+INFO - 2020-11-12 11:08:00 --> Router Class Initialized
+INFO - 2020-11-12 11:08:00 --> Output Class Initialized
+INFO - 2020-11-12 11:08:00 --> Security Class Initialized
+INFO - 2020-11-12 11:08:00 --> Input Class Initialized
+INFO - 2020-11-12 11:08:00 --> Language Class Initialized
+INFO - 2020-11-12 11:08:00 --> Loader Class Initialized
+INFO - 2020-11-12 11:08:00 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:08:00 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:08:00 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:08:00 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:08:00 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:08:00 --> Email Class Initialized
+INFO - 2020-11-12 11:08:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:08:00 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:08:00 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:08:00 --> Controller Class Initialized
+INFO - 2020-11-12 11:08:00 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:08:00 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:08:00 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 11:08:00 --> Final output sent to browser
+INFO - 2020-11-12 11:08:04 --> Config Class Initialized
+INFO - 2020-11-12 11:08:04 --> Hooks Class Initialized
+INFO - 2020-11-12 11:08:04 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:08:04 --> URI Class Initialized
+INFO - 2020-11-12 11:08:04 --> Router Class Initialized
+INFO - 2020-11-12 11:08:04 --> Output Class Initialized
+INFO - 2020-11-12 11:08:04 --> Security Class Initialized
+INFO - 2020-11-12 11:08:04 --> Input Class Initialized
+INFO - 2020-11-12 11:08:04 --> Language Class Initialized
+ERROR - 2020-11-12 11:08:04 --> 404 Page Not Found: Assets/favicon
+INFO - 2020-11-12 11:08:05 --> Config Class Initialized
+INFO - 2020-11-12 11:08:05 --> Hooks Class Initialized
+INFO - 2020-11-12 11:08:05 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:08:05 --> URI Class Initialized
+INFO - 2020-11-12 11:08:05 --> Router Class Initialized
+INFO - 2020-11-12 11:08:05 --> Output Class Initialized
+INFO - 2020-11-12 11:08:05 --> Security Class Initialized
+INFO - 2020-11-12 11:08:05 --> Input Class Initialized
+INFO - 2020-11-12 11:08:05 --> Language Class Initialized
+INFO - 2020-11-12 11:08:05 --> Loader Class Initialized
+INFO - 2020-11-12 11:08:05 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:08:05 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:08:05 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:08:05 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:08:05 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:08:05 --> Email Class Initialized
+INFO - 2020-11-12 11:08:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:08:05 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:08:05 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:08:05 --> Controller Class Initialized
+INFO - 2020-11-12 11:08:05 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:08:05 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:08:05 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/career.php
+INFO - 2020-11-12 11:08:05 --> Final output sent to browser
+INFO - 2020-11-12 11:08:06 --> Config Class Initialized
+INFO - 2020-11-12 11:08:06 --> Hooks Class Initialized
+INFO - 2020-11-12 11:08:06 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:08:06 --> URI Class Initialized
+INFO - 2020-11-12 11:08:06 --> Router Class Initialized
+INFO - 2020-11-12 11:08:06 --> Output Class Initialized
+INFO - 2020-11-12 11:08:06 --> Security Class Initialized
+INFO - 2020-11-12 11:08:06 --> Input Class Initialized
+INFO - 2020-11-12 11:08:06 --> Language Class Initialized
+ERROR - 2020-11-12 11:08:06 --> 404 Page Not Found: Assets/free
+INFO - 2020-11-12 11:08:08 --> Config Class Initialized
+INFO - 2020-11-12 11:08:08 --> Hooks Class Initialized
+INFO - 2020-11-12 11:08:08 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:08:08 --> URI Class Initialized
+INFO - 2020-11-12 11:08:08 --> Router Class Initialized
+INFO - 2020-11-12 11:08:08 --> Output Class Initialized
+INFO - 2020-11-12 11:08:08 --> Security Class Initialized
+INFO - 2020-11-12 11:08:08 --> Input Class Initialized
+INFO - 2020-11-12 11:08:08 --> Language Class Initialized
+INFO - 2020-11-12 11:08:08 --> Loader Class Initialized
+INFO - 2020-11-12 11:08:08 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:08:08 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:08:08 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:08:08 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:08:08 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:08:08 --> Email Class Initialized
+INFO - 2020-11-12 11:08:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:08:08 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:08:08 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:08:08 --> Controller Class Initialized
+INFO - 2020-11-12 11:08:08 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:08:08 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/auth_header.php
+INFO - 2020-11-12 11:08:08 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/auth/login.php
+INFO - 2020-11-12 11:08:08 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/auth_header.php
+INFO - 2020-11-12 11:08:08 --> Final output sent to browser
+INFO - 2020-11-12 11:08:21 --> Config Class Initialized
+INFO - 2020-11-12 11:08:21 --> Hooks Class Initialized
+INFO - 2020-11-12 11:08:21 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:08:21 --> URI Class Initialized
+INFO - 2020-11-12 11:08:21 --> Router Class Initialized
+INFO - 2020-11-12 11:08:21 --> Output Class Initialized
+INFO - 2020-11-12 11:08:21 --> Security Class Initialized
+INFO - 2020-11-12 11:08:21 --> Input Class Initialized
+INFO - 2020-11-12 11:08:21 --> Language Class Initialized
+INFO - 2020-11-12 11:08:21 --> Loader Class Initialized
+INFO - 2020-11-12 11:08:21 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:08:21 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:08:21 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:08:21 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:08:21 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:08:21 --> Email Class Initialized
+INFO - 2020-11-12 11:08:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:08:21 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:08:21 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:08:21 --> Controller Class Initialized
+INFO - 2020-11-12 11:08:21 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:08:21 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-12 11:08:21 --> Alhiqni Rusydaka login
+INFO - 2020-11-12 11:08:21 --> Config Class Initialized
+INFO - 2020-11-12 11:08:21 --> Hooks Class Initialized
+INFO - 2020-11-12 11:08:21 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:08:21 --> URI Class Initialized
+INFO - 2020-11-12 11:08:21 --> Router Class Initialized
+INFO - 2020-11-12 11:08:21 --> Output Class Initialized
+INFO - 2020-11-12 11:08:21 --> Security Class Initialized
+INFO - 2020-11-12 11:08:21 --> Input Class Initialized
+INFO - 2020-11-12 11:08:21 --> Language Class Initialized
+INFO - 2020-11-12 11:08:21 --> Loader Class Initialized
+INFO - 2020-11-12 11:08:21 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:08:21 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:08:21 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:08:21 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:08:21 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:08:21 --> Email Class Initialized
+INFO - 2020-11-12 11:08:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:08:21 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:08:21 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:08:21 --> Controller Class Initialized
+INFO - 2020-11-12 11:08:21 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:08:21 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:08:21 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:08:21 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/admin/index.php
+INFO - 2020-11-12 11:08:21 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:08:21 --> Final output sent to browser
+INFO - 2020-11-12 11:08:25 --> Config Class Initialized
+INFO - 2020-11-12 11:08:25 --> Hooks Class Initialized
+INFO - 2020-11-12 11:08:25 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:08:25 --> URI Class Initialized
+INFO - 2020-11-12 11:08:25 --> Router Class Initialized
+INFO - 2020-11-12 11:08:25 --> Output Class Initialized
+INFO - 2020-11-12 11:08:25 --> Security Class Initialized
+INFO - 2020-11-12 11:08:25 --> Input Class Initialized
+INFO - 2020-11-12 11:08:25 --> Language Class Initialized
+INFO - 2020-11-12 11:08:25 --> Loader Class Initialized
+INFO - 2020-11-12 11:08:25 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:08:25 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:08:25 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:08:25 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:08:25 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:08:25 --> Email Class Initialized
+INFO - 2020-11-12 11:08:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:08:25 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:08:25 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:08:25 --> Controller Class Initialized
+INFO - 2020-11-12 11:08:25 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:08:25 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:08:25 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:08:25 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/admin/user.php
+INFO - 2020-11-12 11:08:25 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:08:25 --> Final output sent to browser
+INFO - 2020-11-12 11:08:39 --> Config Class Initialized
+INFO - 2020-11-12 11:08:39 --> Hooks Class Initialized
+INFO - 2020-11-12 11:08:39 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:08:39 --> URI Class Initialized
+INFO - 2020-11-12 11:08:39 --> Router Class Initialized
+INFO - 2020-11-12 11:08:39 --> Output Class Initialized
+INFO - 2020-11-12 11:08:39 --> Security Class Initialized
+INFO - 2020-11-12 11:08:39 --> Input Class Initialized
+INFO - 2020-11-12 11:08:39 --> Language Class Initialized
+INFO - 2020-11-12 11:08:39 --> Loader Class Initialized
+INFO - 2020-11-12 11:08:39 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:08:39 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:08:39 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:08:39 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:08:39 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:08:39 --> Email Class Initialized
+INFO - 2020-11-12 11:08:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:08:39 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:08:39 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:08:39 --> Controller Class Initialized
+INFO - 2020-11-12 11:08:39 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:08:39 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:08:39 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:08:39 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/admin/detail.php
+INFO - 2020-11-12 11:08:39 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:08:39 --> Final output sent to browser
+INFO - 2020-11-12 11:09:53 --> Config Class Initialized
+INFO - 2020-11-12 11:09:53 --> Hooks Class Initialized
+INFO - 2020-11-12 11:09:53 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:09:53 --> URI Class Initialized
+INFO - 2020-11-12 11:09:53 --> Router Class Initialized
+INFO - 2020-11-12 11:09:53 --> Output Class Initialized
+INFO - 2020-11-12 11:09:53 --> Security Class Initialized
+INFO - 2020-11-12 11:09:53 --> Input Class Initialized
+INFO - 2020-11-12 11:09:53 --> Language Class Initialized
+INFO - 2020-11-12 11:09:53 --> Loader Class Initialized
+INFO - 2020-11-12 11:09:53 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:09:53 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:09:53 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:09:53 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:09:53 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:09:53 --> Email Class Initialized
+INFO - 2020-11-12 11:09:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:09:53 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:09:53 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:09:53 --> Controller Class Initialized
+INFO - 2020-11-12 11:09:53 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:09:53 --> Alhiqni Rusydaka logout
+INFO - 2020-11-12 11:09:53 --> Config Class Initialized
+INFO - 2020-11-12 11:09:53 --> Hooks Class Initialized
+INFO - 2020-11-12 11:09:53 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:09:53 --> URI Class Initialized
+INFO - 2020-11-12 11:09:53 --> Router Class Initialized
+INFO - 2020-11-12 11:09:53 --> Output Class Initialized
+INFO - 2020-11-12 11:09:53 --> Security Class Initialized
+INFO - 2020-11-12 11:09:53 --> Input Class Initialized
+INFO - 2020-11-12 11:09:53 --> Language Class Initialized
+INFO - 2020-11-12 11:09:53 --> Loader Class Initialized
+INFO - 2020-11-12 11:09:53 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:09:53 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:09:53 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:09:53 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:09:53 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:09:53 --> Email Class Initialized
+INFO - 2020-11-12 11:09:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:09:53 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:09:53 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:09:53 --> Controller Class Initialized
+INFO - 2020-11-12 11:09:53 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:09:53 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/auth_header.php
+INFO - 2020-11-12 11:09:53 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/auth/login.php
+INFO - 2020-11-12 11:09:53 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/auth_header.php
+INFO - 2020-11-12 11:09:53 --> Final output sent to browser
+INFO - 2020-11-12 11:10:14 --> Config Class Initialized
+INFO - 2020-11-12 11:10:14 --> Hooks Class Initialized
+INFO - 2020-11-12 11:10:14 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:10:14 --> URI Class Initialized
+INFO - 2020-11-12 11:10:14 --> Router Class Initialized
+INFO - 2020-11-12 11:10:14 --> Output Class Initialized
+INFO - 2020-11-12 11:10:14 --> Security Class Initialized
+INFO - 2020-11-12 11:10:14 --> Input Class Initialized
+INFO - 2020-11-12 11:10:14 --> Language Class Initialized
+INFO - 2020-11-12 11:10:14 --> Loader Class Initialized
+INFO - 2020-11-12 11:10:14 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:10:14 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:10:14 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:10:14 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:10:14 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:10:14 --> Email Class Initialized
+INFO - 2020-11-12 11:10:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:10:14 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:10:14 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:10:14 --> Controller Class Initialized
+INFO - 2020-11-12 11:10:14 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:10:14 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-12 11:10:14 --> Config Class Initialized
+INFO - 2020-11-12 11:10:14 --> Hooks Class Initialized
+INFO - 2020-11-12 11:10:14 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:10:14 --> URI Class Initialized
+INFO - 2020-11-12 11:10:14 --> Router Class Initialized
+INFO - 2020-11-12 11:10:14 --> Output Class Initialized
+INFO - 2020-11-12 11:10:14 --> Security Class Initialized
+INFO - 2020-11-12 11:10:14 --> Input Class Initialized
+INFO - 2020-11-12 11:10:14 --> Language Class Initialized
+INFO - 2020-11-12 11:10:14 --> Loader Class Initialized
+INFO - 2020-11-12 11:10:14 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:10:14 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:10:14 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:10:14 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:10:14 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:10:14 --> Email Class Initialized
+INFO - 2020-11-12 11:10:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:10:14 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:10:14 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:10:14 --> Controller Class Initialized
+INFO - 2020-11-12 11:10:14 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:10:14 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/auth_header.php
+INFO - 2020-11-12 11:10:14 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/auth/login.php
+INFO - 2020-11-12 11:10:14 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/auth_header.php
+INFO - 2020-11-12 11:10:14 --> Final output sent to browser
+INFO - 2020-11-12 11:18:19 --> Config Class Initialized
+INFO - 2020-11-12 11:18:19 --> Hooks Class Initialized
+INFO - 2020-11-12 11:18:19 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:18:19 --> URI Class Initialized
+INFO - 2020-11-12 11:18:19 --> Router Class Initialized
+INFO - 2020-11-12 11:18:19 --> Output Class Initialized
+INFO - 2020-11-12 11:18:19 --> Security Class Initialized
+INFO - 2020-11-12 11:18:19 --> Input Class Initialized
+INFO - 2020-11-12 11:18:19 --> Language Class Initialized
+INFO - 2020-11-12 11:18:19 --> Loader Class Initialized
+INFO - 2020-11-12 11:18:19 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:18:19 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:18:19 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:18:19 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:18:19 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:18:19 --> Email Class Initialized
+INFO - 2020-11-12 11:18:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:18:19 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:18:19 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:18:19 --> Controller Class Initialized
+INFO - 2020-11-12 11:18:19 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:18:19 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-12 11:18:19 --> Alhiqni Rusydaka login
+INFO - 2020-11-12 11:18:19 --> Config Class Initialized
+INFO - 2020-11-12 11:18:19 --> Hooks Class Initialized
+INFO - 2020-11-12 11:18:19 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:18:19 --> URI Class Initialized
+INFO - 2020-11-12 11:18:19 --> Router Class Initialized
+INFO - 2020-11-12 11:18:19 --> Output Class Initialized
+INFO - 2020-11-12 11:18:19 --> Security Class Initialized
+INFO - 2020-11-12 11:18:19 --> Input Class Initialized
+INFO - 2020-11-12 11:18:19 --> Language Class Initialized
+INFO - 2020-11-12 11:18:19 --> Loader Class Initialized
+INFO - 2020-11-12 11:18:19 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:18:19 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:18:19 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:18:19 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:18:19 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:18:19 --> Email Class Initialized
+INFO - 2020-11-12 11:18:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:18:19 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:18:19 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:18:19 --> Controller Class Initialized
+INFO - 2020-11-12 11:18:19 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:18:19 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:18:19 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:18:19 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/admin/index.php
+INFO - 2020-11-12 11:18:19 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:18:19 --> Final output sent to browser
+INFO - 2020-11-12 11:18:25 --> Config Class Initialized
+INFO - 2020-11-12 11:18:25 --> Hooks Class Initialized
+INFO - 2020-11-12 11:18:25 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:18:25 --> URI Class Initialized
+INFO - 2020-11-12 11:18:25 --> Router Class Initialized
+INFO - 2020-11-12 11:18:25 --> Output Class Initialized
+INFO - 2020-11-12 11:18:25 --> Security Class Initialized
+INFO - 2020-11-12 11:18:25 --> Input Class Initialized
+INFO - 2020-11-12 11:18:25 --> Language Class Initialized
+INFO - 2020-11-12 11:18:25 --> Loader Class Initialized
+INFO - 2020-11-12 11:18:25 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:18:25 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:18:25 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:18:25 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:18:25 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:18:25 --> Email Class Initialized
+INFO - 2020-11-12 11:18:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:18:25 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:18:25 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:18:25 --> Controller Class Initialized
+INFO - 2020-11-12 11:18:25 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:18:25 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:18:25 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:18:25 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/freelance/index.php
+INFO - 2020-11-12 11:18:25 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:18:25 --> Final output sent to browser
+INFO - 2020-11-12 11:18:44 --> Config Class Initialized
+INFO - 2020-11-12 11:18:44 --> Hooks Class Initialized
+INFO - 2020-11-12 11:18:44 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:18:44 --> URI Class Initialized
+INFO - 2020-11-12 11:18:44 --> Router Class Initialized
+INFO - 2020-11-12 11:18:44 --> Output Class Initialized
+INFO - 2020-11-12 11:18:44 --> Security Class Initialized
+INFO - 2020-11-12 11:18:44 --> Input Class Initialized
+INFO - 2020-11-12 11:18:44 --> Language Class Initialized
+INFO - 2020-11-12 11:18:44 --> Loader Class Initialized
+INFO - 2020-11-12 11:18:44 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:18:44 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:18:44 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:18:44 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:18:44 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:18:44 --> Email Class Initialized
+INFO - 2020-11-12 11:18:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:18:44 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:18:44 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:18:44 --> Controller Class Initialized
+INFO - 2020-11-12 11:18:44 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:18:44 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:18:44 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:18:44 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/menu/submenu.php
+INFO - 2020-11-12 11:18:44 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:18:44 --> Final output sent to browser
+INFO - 2020-11-12 11:18:55 --> Config Class Initialized
+INFO - 2020-11-12 11:18:55 --> Hooks Class Initialized
+INFO - 2020-11-12 11:18:55 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:18:55 --> URI Class Initialized
+INFO - 2020-11-12 11:18:55 --> Router Class Initialized
+INFO - 2020-11-12 11:18:55 --> Output Class Initialized
+INFO - 2020-11-12 11:18:55 --> Security Class Initialized
+INFO - 2020-11-12 11:18:55 --> Input Class Initialized
+INFO - 2020-11-12 11:18:55 --> Language Class Initialized
+INFO - 2020-11-12 11:18:55 --> Loader Class Initialized
+INFO - 2020-11-12 11:18:55 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:18:55 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:18:55 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:18:55 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:18:55 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:18:55 --> Email Class Initialized
+INFO - 2020-11-12 11:18:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:18:55 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:18:55 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:18:55 --> Controller Class Initialized
+INFO - 2020-11-12 11:18:55 --> Alhiqni Rusydaka edit submenu
+INFO - 2020-11-12 11:18:55 --> Config Class Initialized
+INFO - 2020-11-12 11:18:55 --> Hooks Class Initialized
+INFO - 2020-11-12 11:18:55 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:18:55 --> URI Class Initialized
+INFO - 2020-11-12 11:18:55 --> Router Class Initialized
+INFO - 2020-11-12 11:18:55 --> Output Class Initialized
+INFO - 2020-11-12 11:18:55 --> Security Class Initialized
+INFO - 2020-11-12 11:18:55 --> Input Class Initialized
+INFO - 2020-11-12 11:18:55 --> Language Class Initialized
+INFO - 2020-11-12 11:18:55 --> Loader Class Initialized
+INFO - 2020-11-12 11:18:55 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:18:55 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:18:55 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:18:55 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:18:55 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:18:55 --> Email Class Initialized
+INFO - 2020-11-12 11:18:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:18:55 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:18:55 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:18:55 --> Controller Class Initialized
+INFO - 2020-11-12 11:18:55 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:18:55 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:18:56 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:18:56 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/menu/submenu.php
+INFO - 2020-11-12 11:18:56 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:18:56 --> Final output sent to browser
+INFO - 2020-11-12 11:20:25 --> Config Class Initialized
+INFO - 2020-11-12 11:20:25 --> Hooks Class Initialized
+INFO - 2020-11-12 11:20:25 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:20:25 --> URI Class Initialized
+INFO - 2020-11-12 11:20:25 --> Router Class Initialized
+INFO - 2020-11-12 11:20:25 --> Output Class Initialized
+INFO - 2020-11-12 11:20:25 --> Security Class Initialized
+INFO - 2020-11-12 11:20:25 --> Input Class Initialized
+INFO - 2020-11-12 11:20:25 --> Language Class Initialized
+INFO - 2020-11-12 11:20:25 --> Loader Class Initialized
+INFO - 2020-11-12 11:20:25 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:20:25 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:20:25 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:20:25 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:20:25 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:20:25 --> Email Class Initialized
+INFO - 2020-11-12 11:20:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:20:25 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:20:25 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:20:25 --> Controller Class Initialized
+INFO - 2020-11-12 11:20:25 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:20:25 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:20:25 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:20:25 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/freelance/index.php
+INFO - 2020-11-12 11:20:25 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:20:25 --> Final output sent to browser
+INFO - 2020-11-12 11:20:28 --> Config Class Initialized
+INFO - 2020-11-12 11:20:28 --> Hooks Class Initialized
+INFO - 2020-11-12 11:20:28 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:20:28 --> URI Class Initialized
+INFO - 2020-11-12 11:20:28 --> Router Class Initialized
+INFO - 2020-11-12 11:20:28 --> Output Class Initialized
+INFO - 2020-11-12 11:20:28 --> Security Class Initialized
+INFO - 2020-11-12 11:20:28 --> Input Class Initialized
+INFO - 2020-11-12 11:20:28 --> Language Class Initialized
+INFO - 2020-11-12 11:20:28 --> Loader Class Initialized
+INFO - 2020-11-12 11:20:28 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:20:28 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:20:28 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:20:28 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:20:28 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:20:28 --> Email Class Initialized
+INFO - 2020-11-12 11:20:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:20:28 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:20:28 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:20:28 --> Controller Class Initialized
+INFO - 2020-11-12 11:20:28 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:20:28 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:20:28 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:20:28 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:20:28 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/job/index.php
+INFO - 2020-11-12 11:20:28 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:20:28 --> Final output sent to browser
+INFO - 2020-11-12 11:21:24 --> Config Class Initialized
+INFO - 2020-11-12 11:21:24 --> Hooks Class Initialized
+INFO - 2020-11-12 11:21:24 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:21:24 --> URI Class Initialized
+INFO - 2020-11-12 11:21:24 --> Router Class Initialized
+INFO - 2020-11-12 11:21:24 --> Output Class Initialized
+INFO - 2020-11-12 11:21:24 --> Security Class Initialized
+INFO - 2020-11-12 11:21:24 --> Input Class Initialized
+INFO - 2020-11-12 11:21:24 --> Language Class Initialized
+INFO - 2020-11-12 11:21:24 --> Loader Class Initialized
+INFO - 2020-11-12 11:21:24 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:21:24 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:21:24 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:21:24 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:21:24 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:21:24 --> Email Class Initialized
+INFO - 2020-11-12 11:21:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:21:24 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:21:24 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:21:24 --> Controller Class Initialized
+INFO - 2020-11-12 11:21:24 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:21:24 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:21:24 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:21:24 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:21:24 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/job/history.php
+INFO - 2020-11-12 11:21:24 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:21:24 --> Final output sent to browser
+INFO - 2020-11-12 11:22:19 --> Config Class Initialized
+INFO - 2020-11-12 11:22:19 --> Hooks Class Initialized
+INFO - 2020-11-12 11:22:19 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:22:19 --> URI Class Initialized
+INFO - 2020-11-12 11:22:19 --> Router Class Initialized
+INFO - 2020-11-12 11:22:19 --> Output Class Initialized
+INFO - 2020-11-12 11:22:19 --> Security Class Initialized
+INFO - 2020-11-12 11:22:19 --> Input Class Initialized
+INFO - 2020-11-12 11:22:19 --> Language Class Initialized
+INFO - 2020-11-12 11:22:19 --> Loader Class Initialized
+INFO - 2020-11-12 11:22:19 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:22:19 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:22:19 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:22:19 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:22:19 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:22:19 --> Email Class Initialized
+INFO - 2020-11-12 11:22:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:22:19 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:22:19 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:22:19 --> Controller Class Initialized
+INFO - 2020-11-12 11:22:19 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:22:19 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:22:19 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:22:19 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:22:19 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/user/index.php
+INFO - 2020-11-12 11:22:19 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:22:19 --> Final output sent to browser
+INFO - 2020-11-12 11:22:25 --> Config Class Initialized
+INFO - 2020-11-12 11:22:25 --> Hooks Class Initialized
+INFO - 2020-11-12 11:22:25 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:22:25 --> URI Class Initialized
+INFO - 2020-11-12 11:22:25 --> Router Class Initialized
+INFO - 2020-11-12 11:22:25 --> Output Class Initialized
+INFO - 2020-11-12 11:22:25 --> Security Class Initialized
+INFO - 2020-11-12 11:22:25 --> Input Class Initialized
+INFO - 2020-11-12 11:22:25 --> Language Class Initialized
+INFO - 2020-11-12 11:22:25 --> Loader Class Initialized
+INFO - 2020-11-12 11:22:25 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:22:25 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:22:25 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:22:25 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:22:25 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:22:25 --> Email Class Initialized
+INFO - 2020-11-12 11:22:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:22:25 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:22:25 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:22:25 --> Controller Class Initialized
+INFO - 2020-11-12 11:22:25 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:22:25 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:22:25 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:22:25 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:22:25 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/user/resume.php
+INFO - 2020-11-12 11:22:25 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:22:25 --> Final output sent to browser
+INFO - 2020-11-12 11:22:32 --> Config Class Initialized
+INFO - 2020-11-12 11:22:32 --> Hooks Class Initialized
+INFO - 2020-11-12 11:22:32 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:22:32 --> URI Class Initialized
+INFO - 2020-11-12 11:22:32 --> Router Class Initialized
+INFO - 2020-11-12 11:22:32 --> Output Class Initialized
+INFO - 2020-11-12 11:22:32 --> Security Class Initialized
+INFO - 2020-11-12 11:22:32 --> Input Class Initialized
+INFO - 2020-11-12 11:22:32 --> Language Class Initialized
+INFO - 2020-11-12 11:22:32 --> Loader Class Initialized
+INFO - 2020-11-12 11:22:32 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:22:32 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:22:32 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:22:32 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:22:32 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:22:32 --> Email Class Initialized
+INFO - 2020-11-12 11:22:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:22:32 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:22:32 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:22:32 --> Controller Class Initialized
+INFO - 2020-11-12 11:22:32 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:22:32 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:22:32 --> Alhiqni Rusydaka delete skill 
+INFO - 2020-11-12 11:22:32 --> Config Class Initialized
+INFO - 2020-11-12 11:22:32 --> Hooks Class Initialized
+INFO - 2020-11-12 11:22:32 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:22:32 --> URI Class Initialized
+INFO - 2020-11-12 11:22:32 --> Router Class Initialized
+INFO - 2020-11-12 11:22:32 --> Output Class Initialized
+INFO - 2020-11-12 11:22:32 --> Security Class Initialized
+INFO - 2020-11-12 11:22:32 --> Input Class Initialized
+INFO - 2020-11-12 11:22:32 --> Language Class Initialized
+INFO - 2020-11-12 11:22:32 --> Loader Class Initialized
+INFO - 2020-11-12 11:22:32 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:22:32 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:22:32 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:22:32 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:22:32 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:22:32 --> Email Class Initialized
+INFO - 2020-11-12 11:22:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:22:32 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:22:32 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:22:32 --> Controller Class Initialized
+INFO - 2020-11-12 11:22:32 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:22:32 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:22:32 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:22:32 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:22:32 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/user/resume.php
+INFO - 2020-11-12 11:22:32 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:22:32 --> Final output sent to browser
+INFO - 2020-11-12 11:22:37 --> Config Class Initialized
+INFO - 2020-11-12 11:22:37 --> Hooks Class Initialized
+INFO - 2020-11-12 11:22:37 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:22:37 --> URI Class Initialized
+INFO - 2020-11-12 11:22:37 --> Router Class Initialized
+INFO - 2020-11-12 11:22:37 --> Output Class Initialized
+INFO - 2020-11-12 11:22:37 --> Security Class Initialized
+INFO - 2020-11-12 11:22:37 --> Input Class Initialized
+INFO - 2020-11-12 11:22:37 --> Language Class Initialized
+INFO - 2020-11-12 11:22:37 --> Loader Class Initialized
+INFO - 2020-11-12 11:22:37 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:22:37 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:22:37 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:22:37 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:22:37 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:22:37 --> Email Class Initialized
+INFO - 2020-11-12 11:22:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:22:37 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:22:37 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:22:37 --> Controller Class Initialized
+INFO - 2020-11-12 11:22:37 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:22:37 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:22:37 --> Alhiqni Rusydaka delete skill 
+INFO - 2020-11-12 11:22:37 --> Config Class Initialized
+INFO - 2020-11-12 11:22:37 --> Hooks Class Initialized
+INFO - 2020-11-12 11:22:37 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:22:37 --> URI Class Initialized
+INFO - 2020-11-12 11:22:37 --> Router Class Initialized
+INFO - 2020-11-12 11:22:37 --> Output Class Initialized
+INFO - 2020-11-12 11:22:37 --> Security Class Initialized
+INFO - 2020-11-12 11:22:37 --> Input Class Initialized
+INFO - 2020-11-12 11:22:37 --> Language Class Initialized
+INFO - 2020-11-12 11:22:37 --> Loader Class Initialized
+INFO - 2020-11-12 11:22:37 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:22:37 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:22:37 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:22:37 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:22:37 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:22:37 --> Email Class Initialized
+INFO - 2020-11-12 11:22:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:22:37 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:22:37 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:22:37 --> Controller Class Initialized
+INFO - 2020-11-12 11:22:37 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:22:37 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:22:37 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:22:37 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:22:37 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/user/resume.php
+INFO - 2020-11-12 11:22:37 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:22:37 --> Final output sent to browser
+INFO - 2020-11-12 11:22:42 --> Config Class Initialized
+INFO - 2020-11-12 11:22:42 --> Hooks Class Initialized
+INFO - 2020-11-12 11:22:42 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:22:42 --> URI Class Initialized
+INFO - 2020-11-12 11:22:42 --> Router Class Initialized
+INFO - 2020-11-12 11:22:42 --> Output Class Initialized
+INFO - 2020-11-12 11:22:42 --> Security Class Initialized
+INFO - 2020-11-12 11:22:42 --> Input Class Initialized
+INFO - 2020-11-12 11:22:42 --> Language Class Initialized
+INFO - 2020-11-12 11:22:42 --> Loader Class Initialized
+INFO - 2020-11-12 11:22:42 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:22:42 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:22:42 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:22:42 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:22:42 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:22:42 --> Config Class Initialized
+INFO - 2020-11-12 11:22:42 --> Hooks Class Initialized
+INFO - 2020-11-12 11:22:42 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:22:42 --> URI Class Initialized
+INFO - 2020-11-12 11:22:42 --> Router Class Initialized
+INFO - 2020-11-12 11:22:42 --> Output Class Initialized
+INFO - 2020-11-12 11:22:42 --> Security Class Initialized
+INFO - 2020-11-12 11:22:42 --> Input Class Initialized
+INFO - 2020-11-12 11:22:42 --> Language Class Initialized
+INFO - 2020-11-12 11:22:42 --> Loader Class Initialized
+INFO - 2020-11-12 11:22:42 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:22:42 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:22:42 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:22:42 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:22:42 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:22:42 --> Email Class Initialized
+INFO - 2020-11-12 11:22:42 --> Email Class Initialized
+INFO - 2020-11-12 11:22:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:22:42 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:22:42 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:22:42 --> Controller Class Initialized
+INFO - 2020-11-12 11:22:42 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:22:42 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:22:42 --> Final output sent to browser
+INFO - 2020-11-12 11:22:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:22:42 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:22:42 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:22:42 --> Controller Class Initialized
+INFO - 2020-11-12 11:22:42 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:22:42 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:22:42 --> Alhiqni Rusydaka add bidang 
+INFO - 2020-11-12 11:22:42 --> Final output sent to browser
+INFO - 2020-11-12 11:22:56 --> Config Class Initialized
+INFO - 2020-11-12 11:22:56 --> Hooks Class Initialized
+INFO - 2020-11-12 11:22:56 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:22:56 --> URI Class Initialized
+INFO - 2020-11-12 11:22:56 --> Router Class Initialized
+INFO - 2020-11-12 11:22:56 --> Output Class Initialized
+INFO - 2020-11-12 11:22:56 --> Security Class Initialized
+INFO - 2020-11-12 11:22:56 --> Input Class Initialized
+INFO - 2020-11-12 11:22:56 --> Language Class Initialized
+INFO - 2020-11-12 11:22:56 --> Loader Class Initialized
+INFO - 2020-11-12 11:22:56 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:22:56 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:22:56 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:22:56 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:22:56 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:22:56 --> Email Class Initialized
+INFO - 2020-11-12 11:22:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:22:56 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:22:56 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:22:56 --> Controller Class Initialized
+INFO - 2020-11-12 11:22:56 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:22:56 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:22:56 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:22:56 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:22:56 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/user/resume.php
+INFO - 2020-11-12 11:22:56 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:22:56 --> Final output sent to browser
+INFO - 2020-11-12 11:23:00 --> Config Class Initialized
+INFO - 2020-11-12 11:23:00 --> Hooks Class Initialized
+INFO - 2020-11-12 11:23:00 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:23:00 --> URI Class Initialized
+INFO - 2020-11-12 11:23:00 --> Router Class Initialized
+INFO - 2020-11-12 11:23:00 --> Output Class Initialized
+INFO - 2020-11-12 11:23:00 --> Security Class Initialized
+INFO - 2020-11-12 11:23:00 --> Input Class Initialized
+INFO - 2020-11-12 11:23:00 --> Language Class Initialized
+INFO - 2020-11-12 11:23:00 --> Loader Class Initialized
+INFO - 2020-11-12 11:23:00 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:23:00 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:23:00 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:23:00 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:23:00 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:23:00 --> Email Class Initialized
+INFO - 2020-11-12 11:23:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:23:00 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:23:00 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:23:00 --> Controller Class Initialized
+INFO - 2020-11-12 11:23:00 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:23:00 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:23:00 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:23:00 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:23:00 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/user/resume.php
+INFO - 2020-11-12 11:23:00 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:23:00 --> Final output sent to browser
+INFO - 2020-11-12 11:23:08 --> Config Class Initialized
+INFO - 2020-11-12 11:23:08 --> Hooks Class Initialized
+INFO - 2020-11-12 11:23:08 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:23:08 --> URI Class Initialized
+INFO - 2020-11-12 11:23:08 --> Router Class Initialized
+INFO - 2020-11-12 11:23:08 --> Output Class Initialized
+INFO - 2020-11-12 11:23:08 --> Security Class Initialized
+INFO - 2020-11-12 11:23:08 --> Input Class Initialized
+INFO - 2020-11-12 11:23:08 --> Language Class Initialized
+INFO - 2020-11-12 11:23:08 --> Loader Class Initialized
+INFO - 2020-11-12 11:23:08 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:23:08 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:23:08 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:23:08 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:23:08 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:23:08 --> Email Class Initialized
+INFO - 2020-11-12 11:23:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:23:08 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:23:08 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:23:08 --> Controller Class Initialized
+INFO - 2020-11-12 11:23:08 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:23:08 --> Alhiqni Rusydaka logout
+INFO - 2020-11-12 11:23:08 --> Config Class Initialized
+INFO - 2020-11-12 11:23:08 --> Hooks Class Initialized
+INFO - 2020-11-12 11:23:08 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:23:08 --> URI Class Initialized
+INFO - 2020-11-12 11:23:08 --> Router Class Initialized
+INFO - 2020-11-12 11:23:08 --> Output Class Initialized
+INFO - 2020-11-12 11:23:08 --> Security Class Initialized
+INFO - 2020-11-12 11:23:08 --> Input Class Initialized
+INFO - 2020-11-12 11:23:08 --> Language Class Initialized
+INFO - 2020-11-12 11:23:08 --> Loader Class Initialized
+INFO - 2020-11-12 11:23:08 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:23:08 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:23:08 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:23:08 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:23:08 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:23:08 --> Email Class Initialized
+INFO - 2020-11-12 11:23:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:23:08 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:23:08 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:23:08 --> Controller Class Initialized
+INFO - 2020-11-12 11:23:08 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:23:08 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/auth_header.php
+INFO - 2020-11-12 11:23:08 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/auth/login.php
+INFO - 2020-11-12 11:23:08 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/auth_header.php
+INFO - 2020-11-12 11:23:08 --> Final output sent to browser
+INFO - 2020-11-12 11:23:23 --> Config Class Initialized
+INFO - 2020-11-12 11:23:23 --> Hooks Class Initialized
+INFO - 2020-11-12 11:23:23 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:23:23 --> URI Class Initialized
+INFO - 2020-11-12 11:23:23 --> Router Class Initialized
+INFO - 2020-11-12 11:23:23 --> Output Class Initialized
+INFO - 2020-11-12 11:23:23 --> Security Class Initialized
+INFO - 2020-11-12 11:23:23 --> Input Class Initialized
+INFO - 2020-11-12 11:23:23 --> Language Class Initialized
+INFO - 2020-11-12 11:23:23 --> Loader Class Initialized
+INFO - 2020-11-12 11:23:23 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:23:23 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:23:23 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:23:23 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:23:23 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:23:23 --> Email Class Initialized
+INFO - 2020-11-12 11:23:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:23:23 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:23:23 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:23:23 --> Controller Class Initialized
+INFO - 2020-11-12 11:23:23 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:23:23 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-12 11:23:23 --> Alhiqni Rusydaka login
+INFO - 2020-11-12 11:23:23 --> Config Class Initialized
+INFO - 2020-11-12 11:23:23 --> Hooks Class Initialized
+INFO - 2020-11-12 11:23:23 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:23:23 --> URI Class Initialized
+INFO - 2020-11-12 11:23:23 --> Router Class Initialized
+INFO - 2020-11-12 11:23:23 --> Output Class Initialized
+INFO - 2020-11-12 11:23:23 --> Security Class Initialized
+INFO - 2020-11-12 11:23:23 --> Input Class Initialized
+INFO - 2020-11-12 11:23:23 --> Language Class Initialized
+INFO - 2020-11-12 11:23:23 --> Loader Class Initialized
+INFO - 2020-11-12 11:23:23 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:23:23 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:23:23 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:23:23 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:23:23 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:23:23 --> Email Class Initialized
+INFO - 2020-11-12 11:23:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:23:23 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:23:23 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:23:23 --> Controller Class Initialized
+INFO - 2020-11-12 11:23:23 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:23:23 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:23:23 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:23:23 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/admin/index.php
+INFO - 2020-11-12 11:23:23 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:23:23 --> Final output sent to browser
+INFO - 2020-11-12 11:23:27 --> Config Class Initialized
+INFO - 2020-11-12 11:23:27 --> Hooks Class Initialized
+INFO - 2020-11-12 11:23:27 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:23:27 --> URI Class Initialized
+INFO - 2020-11-12 11:23:27 --> Router Class Initialized
+INFO - 2020-11-12 11:23:27 --> Output Class Initialized
+INFO - 2020-11-12 11:23:27 --> Security Class Initialized
+INFO - 2020-11-12 11:23:27 --> Input Class Initialized
+INFO - 2020-11-12 11:23:27 --> Language Class Initialized
+INFO - 2020-11-12 11:23:27 --> Loader Class Initialized
+INFO - 2020-11-12 11:23:27 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:23:27 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:23:27 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:23:27 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:23:27 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:23:27 --> Email Class Initialized
+INFO - 2020-11-12 11:23:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:23:27 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:23:27 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:23:27 --> Controller Class Initialized
+INFO - 2020-11-12 11:23:27 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:23:27 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:23:27 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:23:27 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:23:27 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/user/resume.php
+INFO - 2020-11-12 11:23:27 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:23:27 --> Final output sent to browser
+INFO - 2020-11-12 11:24:19 --> Config Class Initialized
+INFO - 2020-11-12 11:24:19 --> Hooks Class Initialized
+INFO - 2020-11-12 11:24:19 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:24:19 --> URI Class Initialized
+INFO - 2020-11-12 11:24:19 --> Router Class Initialized
+INFO - 2020-11-12 11:24:19 --> Output Class Initialized
+INFO - 2020-11-12 11:24:19 --> Security Class Initialized
+INFO - 2020-11-12 11:24:19 --> Input Class Initialized
+INFO - 2020-11-12 11:24:19 --> Language Class Initialized
+INFO - 2020-11-12 11:24:19 --> Loader Class Initialized
+INFO - 2020-11-12 11:24:19 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:24:19 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:24:19 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:24:19 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:24:19 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:24:19 --> Email Class Initialized
+INFO - 2020-11-12 11:24:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:24:19 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:24:19 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:24:19 --> Controller Class Initialized
+INFO - 2020-11-12 11:24:19 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:24:19 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:24:20 --> Language file loaded: language/english/email_lang.php
+INFO - 2020-11-12 11:24:22 --> Alhiqni Rusydaka send a report resume
+INFO - 2020-11-12 11:24:22 --> Config Class Initialized
+INFO - 2020-11-12 11:24:22 --> Hooks Class Initialized
+INFO - 2020-11-12 11:24:22 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:24:22 --> URI Class Initialized
+INFO - 2020-11-12 11:24:22 --> Router Class Initialized
+INFO - 2020-11-12 11:24:22 --> Output Class Initialized
+INFO - 2020-11-12 11:24:22 --> Security Class Initialized
+INFO - 2020-11-12 11:24:22 --> Input Class Initialized
+INFO - 2020-11-12 11:24:22 --> Language Class Initialized
+INFO - 2020-11-12 11:24:22 --> Loader Class Initialized
+INFO - 2020-11-12 11:24:22 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:24:22 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:24:22 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:24:22 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:24:22 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:24:22 --> Email Class Initialized
+INFO - 2020-11-12 11:24:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:24:22 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:24:22 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:24:22 --> Controller Class Initialized
+INFO - 2020-11-12 11:24:22 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:24:22 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:24:22 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:24:22 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:24:22 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/user/index.php
+INFO - 2020-11-12 11:24:22 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:24:22 --> Final output sent to browser
+INFO - 2020-11-12 11:24:39 --> Config Class Initialized
+INFO - 2020-11-12 11:24:39 --> Hooks Class Initialized
+INFO - 2020-11-12 11:24:39 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:24:39 --> URI Class Initialized
+INFO - 2020-11-12 11:24:39 --> Router Class Initialized
+INFO - 2020-11-12 11:24:39 --> Output Class Initialized
+INFO - 2020-11-12 11:24:39 --> Security Class Initialized
+INFO - 2020-11-12 11:24:39 --> Input Class Initialized
+INFO - 2020-11-12 11:24:39 --> Language Class Initialized
+INFO - 2020-11-12 11:24:39 --> Loader Class Initialized
+INFO - 2020-11-12 11:24:39 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:24:39 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:24:39 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:24:39 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:24:39 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:24:39 --> Email Class Initialized
+INFO - 2020-11-12 11:24:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:24:39 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:24:39 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:24:39 --> Controller Class Initialized
+INFO - 2020-11-12 11:24:39 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 11:24:39 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 11:24:39 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 11:24:39 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/admin/user.php
+INFO - 2020-11-12 11:24:39 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 11:24:39 --> Final output sent to browser
+INFO - 2020-11-12 11:34:50 --> Config Class Initialized
+INFO - 2020-11-12 11:34:50 --> Hooks Class Initialized
+INFO - 2020-11-12 11:34:50 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:34:50 --> URI Class Initialized
+INFO - 2020-11-12 11:34:50 --> Router Class Initialized
+INFO - 2020-11-12 11:34:50 --> Output Class Initialized
+INFO - 2020-11-12 11:34:50 --> Security Class Initialized
+INFO - 2020-11-12 11:34:50 --> Input Class Initialized
+INFO - 2020-11-12 11:34:50 --> Language Class Initialized
+INFO - 2020-11-12 11:34:50 --> Loader Class Initialized
+INFO - 2020-11-12 11:34:50 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:34:50 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:34:50 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:34:50 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:34:50 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:34:50 --> Email Class Initialized
+INFO - 2020-11-12 11:34:50 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:34:50 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:34:50 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:34:50 --> Controller Class Initialized
+INFO - 2020-11-12 11:34:50 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:34:50 --> Alhiqni Rusydaka logout
+INFO - 2020-11-12 11:34:50 --> Config Class Initialized
+INFO - 2020-11-12 11:34:50 --> Hooks Class Initialized
+INFO - 2020-11-12 11:34:50 --> Utf8 Class Initialized
+INFO - 2020-11-12 11:34:50 --> URI Class Initialized
+INFO - 2020-11-12 11:34:50 --> Router Class Initialized
+INFO - 2020-11-12 11:34:50 --> Output Class Initialized
+INFO - 2020-11-12 11:34:50 --> Security Class Initialized
+INFO - 2020-11-12 11:34:50 --> Input Class Initialized
+INFO - 2020-11-12 11:34:50 --> Language Class Initialized
+INFO - 2020-11-12 11:34:50 --> Loader Class Initialized
+INFO - 2020-11-12 11:34:50 --> Helper loaded: url_helper
+INFO - 2020-11-12 11:34:50 --> Helper loaded: file_helper
+INFO - 2020-11-12 11:34:50 --> Helper loaded: security_helper
+INFO - 2020-11-12 11:34:50 --> Helper loaded: login_helper
+INFO - 2020-11-12 11:34:50 --> Database Driver Class Initialized
+INFO - 2020-11-12 11:34:50 --> Email Class Initialized
+INFO - 2020-11-12 11:34:50 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 11:34:50 --> Helper loaded: form_helper
+INFO - 2020-11-12 11:34:50 --> Form Validation Class Initialized
+INFO - 2020-11-12 11:34:50 --> Controller Class Initialized
+INFO - 2020-11-12 11:34:50 --> Model "Menu_model" initialized
+INFO - 2020-11-12 11:34:50 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/auth_header.php
+INFO - 2020-11-12 11:34:50 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/auth/login.php
+INFO - 2020-11-12 11:34:50 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/auth_header.php
+INFO - 2020-11-12 11:34:50 --> Final output sent to browser
+INFO - 2020-11-12 12:01:42 --> Config Class Initialized
+INFO - 2020-11-12 12:01:42 --> Hooks Class Initialized
+INFO - 2020-11-12 12:01:42 --> Utf8 Class Initialized
+INFO - 2020-11-12 12:01:42 --> URI Class Initialized
+INFO - 2020-11-12 12:01:42 --> Router Class Initialized
+INFO - 2020-11-12 12:01:42 --> Output Class Initialized
+INFO - 2020-11-12 12:01:42 --> Security Class Initialized
+INFO - 2020-11-12 12:01:42 --> Input Class Initialized
+INFO - 2020-11-12 12:01:42 --> Language Class Initialized
+INFO - 2020-11-12 12:01:42 --> Loader Class Initialized
+INFO - 2020-11-12 12:01:42 --> Helper loaded: url_helper
+INFO - 2020-11-12 12:01:42 --> Helper loaded: file_helper
+INFO - 2020-11-12 12:01:42 --> Helper loaded: security_helper
+INFO - 2020-11-12 12:01:42 --> Helper loaded: login_helper
+INFO - 2020-11-12 12:01:42 --> Database Driver Class Initialized
+INFO - 2020-11-12 12:01:42 --> Email Class Initialized
+INFO - 2020-11-12 12:01:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 12:01:42 --> Helper loaded: form_helper
+INFO - 2020-11-12 12:01:42 --> Form Validation Class Initialized
+INFO - 2020-11-12 12:01:42 --> Controller Class Initialized
+INFO - 2020-11-12 12:01:42 --> Model "Menu_model" initialized
+INFO - 2020-11-12 12:01:42 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-12 12:01:42 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/auth_header.php
+INFO - 2020-11-12 12:01:42 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/auth/login.php
+INFO - 2020-11-12 12:01:42 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/auth_header.php
+INFO - 2020-11-12 12:01:42 --> Final output sent to browser
+INFO - 2020-11-12 12:17:27 --> Config Class Initialized
+INFO - 2020-11-12 12:17:27 --> Hooks Class Initialized
+INFO - 2020-11-12 12:17:27 --> Utf8 Class Initialized
+INFO - 2020-11-12 12:17:27 --> URI Class Initialized
+INFO - 2020-11-12 12:17:27 --> Router Class Initialized
+INFO - 2020-11-12 12:17:27 --> Output Class Initialized
+INFO - 2020-11-12 12:17:27 --> Security Class Initialized
+INFO - 2020-11-12 12:17:27 --> Input Class Initialized
+INFO - 2020-11-12 12:17:27 --> Language Class Initialized
+INFO - 2020-11-12 12:17:27 --> Loader Class Initialized
+INFO - 2020-11-12 12:17:27 --> Helper loaded: url_helper
+INFO - 2020-11-12 12:17:27 --> Helper loaded: file_helper
+INFO - 2020-11-12 12:17:27 --> Helper loaded: security_helper
+INFO - 2020-11-12 12:17:27 --> Helper loaded: login_helper
+INFO - 2020-11-12 12:17:27 --> Database Driver Class Initialized
+INFO - 2020-11-12 12:17:27 --> Email Class Initialized
+INFO - 2020-11-12 12:17:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 12:17:27 --> Helper loaded: form_helper
+INFO - 2020-11-12 12:17:27 --> Form Validation Class Initialized
+INFO - 2020-11-12 12:17:27 --> Controller Class Initialized
+INFO - 2020-11-12 12:17:27 --> Model "Menu_model" initialized
+INFO - 2020-11-12 12:17:27 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-12 12:17:27 --> Alhiqni Rusydaka login
+INFO - 2020-11-12 12:17:27 --> Config Class Initialized
+INFO - 2020-11-12 12:17:27 --> Hooks Class Initialized
+INFO - 2020-11-12 12:17:27 --> Utf8 Class Initialized
+INFO - 2020-11-12 12:17:27 --> URI Class Initialized
+INFO - 2020-11-12 12:17:27 --> Router Class Initialized
+INFO - 2020-11-12 12:17:27 --> Output Class Initialized
+INFO - 2020-11-12 12:17:27 --> Security Class Initialized
+INFO - 2020-11-12 12:17:27 --> Input Class Initialized
+INFO - 2020-11-12 12:17:27 --> Language Class Initialized
+INFO - 2020-11-12 12:17:27 --> Loader Class Initialized
+INFO - 2020-11-12 12:17:27 --> Helper loaded: url_helper
+INFO - 2020-11-12 12:17:27 --> Helper loaded: file_helper
+INFO - 2020-11-12 12:17:27 --> Helper loaded: security_helper
+INFO - 2020-11-12 12:17:27 --> Helper loaded: login_helper
+INFO - 2020-11-12 12:17:27 --> Database Driver Class Initialized
+INFO - 2020-11-12 12:17:27 --> Email Class Initialized
+INFO - 2020-11-12 12:17:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 12:17:27 --> Helper loaded: form_helper
+INFO - 2020-11-12 12:17:27 --> Form Validation Class Initialized
+INFO - 2020-11-12 12:17:27 --> Controller Class Initialized
+INFO - 2020-11-12 12:17:27 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 12:17:27 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 12:17:27 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 12:17:27 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/admin/index.php
+INFO - 2020-11-12 12:17:27 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 12:17:27 --> Final output sent to browser
+INFO - 2020-11-12 12:17:33 --> Config Class Initialized
+INFO - 2020-11-12 12:17:33 --> Hooks Class Initialized
+INFO - 2020-11-12 12:17:33 --> Utf8 Class Initialized
+INFO - 2020-11-12 12:17:33 --> URI Class Initialized
+INFO - 2020-11-12 12:17:33 --> Router Class Initialized
+INFO - 2020-11-12 12:17:33 --> Output Class Initialized
+INFO - 2020-11-12 12:17:33 --> Security Class Initialized
+INFO - 2020-11-12 12:17:33 --> Input Class Initialized
+INFO - 2020-11-12 12:17:33 --> Language Class Initialized
+INFO - 2020-11-12 12:17:33 --> Loader Class Initialized
+INFO - 2020-11-12 12:17:33 --> Helper loaded: url_helper
+INFO - 2020-11-12 12:17:33 --> Helper loaded: file_helper
+INFO - 2020-11-12 12:17:33 --> Helper loaded: security_helper
+INFO - 2020-11-12 12:17:33 --> Helper loaded: login_helper
+INFO - 2020-11-12 12:17:33 --> Database Driver Class Initialized
+INFO - 2020-11-12 12:17:33 --> Email Class Initialized
+INFO - 2020-11-12 12:17:33 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 12:17:33 --> Helper loaded: form_helper
+INFO - 2020-11-12 12:17:33 --> Form Validation Class Initialized
+INFO - 2020-11-12 12:17:33 --> Controller Class Initialized
+INFO - 2020-11-12 12:17:33 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 12:17:33 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 12:17:33 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 12:17:33 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/admin/user.php
+INFO - 2020-11-12 12:17:33 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 12:17:33 --> Final output sent to browser
+INFO - 2020-11-12 12:20:56 --> Config Class Initialized
+INFO - 2020-11-12 12:20:56 --> Hooks Class Initialized
+INFO - 2020-11-12 12:20:56 --> Utf8 Class Initialized
+INFO - 2020-11-12 12:20:56 --> URI Class Initialized
+INFO - 2020-11-12 12:20:56 --> Router Class Initialized
+INFO - 2020-11-12 12:20:56 --> Output Class Initialized
+INFO - 2020-11-12 12:20:56 --> Security Class Initialized
+INFO - 2020-11-12 12:20:56 --> Input Class Initialized
+INFO - 2020-11-12 12:20:56 --> Language Class Initialized
+INFO - 2020-11-12 12:20:56 --> Loader Class Initialized
+INFO - 2020-11-12 12:20:56 --> Helper loaded: url_helper
+INFO - 2020-11-12 12:20:56 --> Helper loaded: file_helper
+INFO - 2020-11-12 12:20:56 --> Helper loaded: security_helper
+INFO - 2020-11-12 12:20:56 --> Helper loaded: login_helper
+INFO - 2020-11-12 12:20:56 --> Database Driver Class Initialized
+INFO - 2020-11-12 12:20:56 --> Email Class Initialized
+INFO - 2020-11-12 12:20:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 12:20:56 --> Helper loaded: form_helper
+INFO - 2020-11-12 12:20:56 --> Form Validation Class Initialized
+INFO - 2020-11-12 12:20:56 --> Controller Class Initialized
+INFO - 2020-11-12 12:20:56 --> Model "Menu_model" initialized
+INFO - 2020-11-12 12:20:56 --> Config Class Initialized
+INFO - 2020-11-12 12:20:56 --> Hooks Class Initialized
+INFO - 2020-11-12 12:20:56 --> Utf8 Class Initialized
+INFO - 2020-11-12 12:20:56 --> URI Class Initialized
+INFO - 2020-11-12 12:20:56 --> Router Class Initialized
+INFO - 2020-11-12 12:20:56 --> Output Class Initialized
+INFO - 2020-11-12 12:20:56 --> Security Class Initialized
+INFO - 2020-11-12 12:20:56 --> Input Class Initialized
+INFO - 2020-11-12 12:20:56 --> Language Class Initialized
+INFO - 2020-11-12 12:20:56 --> Loader Class Initialized
+INFO - 2020-11-12 12:20:56 --> Helper loaded: url_helper
+INFO - 2020-11-12 12:20:56 --> Helper loaded: file_helper
+INFO - 2020-11-12 12:20:56 --> Helper loaded: security_helper
+INFO - 2020-11-12 12:20:56 --> Helper loaded: login_helper
+INFO - 2020-11-12 12:20:56 --> Database Driver Class Initialized
+INFO - 2020-11-12 12:20:56 --> Email Class Initialized
+INFO - 2020-11-12 12:20:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 12:20:56 --> Helper loaded: form_helper
+INFO - 2020-11-12 12:20:56 --> Form Validation Class Initialized
+INFO - 2020-11-12 12:20:56 --> Controller Class Initialized
+INFO - 2020-11-12 12:20:56 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 12:20:56 --> Model "Menu_model" initialized
+INFO - 2020-11-12 12:20:56 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 12:20:56 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 12:20:56 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/user/index.php
+INFO - 2020-11-12 12:20:56 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 12:20:56 --> Final output sent to browser
+INFO - 2020-11-12 14:02:07 --> Config Class Initialized
+INFO - 2020-11-12 14:02:07 --> Hooks Class Initialized
+INFO - 2020-11-12 14:02:07 --> Utf8 Class Initialized
+INFO - 2020-11-12 14:02:07 --> URI Class Initialized
+INFO - 2020-11-12 14:02:07 --> Router Class Initialized
+INFO - 2020-11-12 14:02:07 --> Output Class Initialized
+INFO - 2020-11-12 14:02:07 --> Security Class Initialized
+INFO - 2020-11-12 14:02:07 --> Input Class Initialized
+INFO - 2020-11-12 14:02:07 --> Language Class Initialized
+INFO - 2020-11-12 14:02:07 --> Loader Class Initialized
+INFO - 2020-11-12 14:02:07 --> Helper loaded: url_helper
+INFO - 2020-11-12 14:02:07 --> Helper loaded: file_helper
+INFO - 2020-11-12 14:02:07 --> Helper loaded: security_helper
+INFO - 2020-11-12 14:02:07 --> Helper loaded: login_helper
+INFO - 2020-11-12 14:02:07 --> Database Driver Class Initialized
+INFO - 2020-11-12 14:02:07 --> Email Class Initialized
+INFO - 2020-11-12 14:02:07 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 14:02:07 --> Helper loaded: form_helper
+INFO - 2020-11-12 14:02:07 --> Form Validation Class Initialized
+INFO - 2020-11-12 14:02:07 --> Controller Class Initialized
+INFO - 2020-11-12 14:02:07 --> Model "Menu_model" initialized
+INFO - 2020-11-12 14:02:07 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 14:02:07 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 14:02:07 --> Final output sent to browser
+INFO - 2020-11-12 14:26:36 --> Config Class Initialized
+INFO - 2020-11-12 14:26:36 --> Hooks Class Initialized
+INFO - 2020-11-12 14:26:36 --> Utf8 Class Initialized
+INFO - 2020-11-12 14:26:36 --> URI Class Initialized
+INFO - 2020-11-12 14:26:36 --> Router Class Initialized
+INFO - 2020-11-12 14:26:36 --> Output Class Initialized
+INFO - 2020-11-12 14:26:36 --> Security Class Initialized
+INFO - 2020-11-12 14:26:36 --> Input Class Initialized
+INFO - 2020-11-12 14:26:36 --> Language Class Initialized
+INFO - 2020-11-12 14:26:36 --> Loader Class Initialized
+INFO - 2020-11-12 14:26:36 --> Helper loaded: url_helper
+INFO - 2020-11-12 14:26:36 --> Helper loaded: file_helper
+INFO - 2020-11-12 14:26:36 --> Helper loaded: security_helper
+INFO - 2020-11-12 14:26:36 --> Helper loaded: login_helper
+INFO - 2020-11-12 14:26:36 --> Database Driver Class Initialized
+INFO - 2020-11-12 14:26:36 --> Email Class Initialized
+INFO - 2020-11-12 14:26:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 14:26:36 --> Helper loaded: form_helper
+INFO - 2020-11-12 14:26:36 --> Form Validation Class Initialized
+INFO - 2020-11-12 14:26:36 --> Controller Class Initialized
+INFO - 2020-11-12 14:26:36 --> Model "Menu_model" initialized
+INFO - 2020-11-12 14:26:36 --> Config Class Initialized
+INFO - 2020-11-12 14:26:36 --> Hooks Class Initialized
+INFO - 2020-11-12 14:26:36 --> Utf8 Class Initialized
+INFO - 2020-11-12 14:26:36 --> URI Class Initialized
+INFO - 2020-11-12 14:26:36 --> Router Class Initialized
+INFO - 2020-11-12 14:26:36 --> Output Class Initialized
+INFO - 2020-11-12 14:26:36 --> Security Class Initialized
+INFO - 2020-11-12 14:26:36 --> Input Class Initialized
+INFO - 2020-11-12 14:26:36 --> Language Class Initialized
+INFO - 2020-11-12 14:26:36 --> Loader Class Initialized
+INFO - 2020-11-12 14:26:36 --> Helper loaded: url_helper
+INFO - 2020-11-12 14:26:36 --> Helper loaded: file_helper
+INFO - 2020-11-12 14:26:36 --> Helper loaded: security_helper
+INFO - 2020-11-12 14:26:36 --> Helper loaded: login_helper
+INFO - 2020-11-12 14:26:36 --> Database Driver Class Initialized
+INFO - 2020-11-12 14:26:36 --> Email Class Initialized
+INFO - 2020-11-12 14:26:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 14:26:36 --> Helper loaded: form_helper
+INFO - 2020-11-12 14:26:36 --> Form Validation Class Initialized
+INFO - 2020-11-12 14:26:36 --> Controller Class Initialized
+INFO - 2020-11-12 14:26:36 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 14:26:36 --> Model "Menu_model" initialized
+INFO - 2020-11-12 14:26:36 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/header.php
+INFO - 2020-11-12 14:26:36 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/topbar.php
+INFO - 2020-11-12 14:26:36 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/user/index.php
+INFO - 2020-11-12 14:26:36 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/templates/footer.php
+INFO - 2020-11-12 14:26:36 --> Final output sent to browser
+INFO - 2020-11-12 15:33:02 --> Config Class Initialized
+INFO - 2020-11-12 15:33:02 --> Hooks Class Initialized
+INFO - 2020-11-12 15:33:02 --> Utf8 Class Initialized
+INFO - 2020-11-12 15:33:02 --> URI Class Initialized
+INFO - 2020-11-12 15:33:02 --> Router Class Initialized
+INFO - 2020-11-12 15:33:02 --> Output Class Initialized
+INFO - 2020-11-12 15:33:02 --> Security Class Initialized
+INFO - 2020-11-12 15:33:02 --> Input Class Initialized
+INFO - 2020-11-12 15:33:02 --> Language Class Initialized
+INFO - 2020-11-12 15:33:02 --> Loader Class Initialized
+INFO - 2020-11-12 15:33:02 --> Helper loaded: url_helper
+INFO - 2020-11-12 15:33:02 --> Helper loaded: file_helper
+INFO - 2020-11-12 15:33:02 --> Helper loaded: security_helper
+INFO - 2020-11-12 15:33:02 --> Helper loaded: login_helper
+INFO - 2020-11-12 15:33:02 --> Database Driver Class Initialized
+INFO - 2020-11-12 15:33:02 --> Email Class Initialized
+INFO - 2020-11-12 15:33:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 15:33:02 --> Helper loaded: form_helper
+INFO - 2020-11-12 15:33:02 --> Form Validation Class Initialized
+INFO - 2020-11-12 15:33:02 --> Controller Class Initialized
+INFO - 2020-11-12 15:33:02 --> Model "Menu_model" initialized
+INFO - 2020-11-12 15:33:02 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 15:33:02 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 15:33:02 --> Final output sent to browser
+INFO - 2020-11-12 15:46:56 --> Config Class Initialized
+INFO - 2020-11-12 15:46:56 --> Hooks Class Initialized
+INFO - 2020-11-12 15:46:56 --> Utf8 Class Initialized
+INFO - 2020-11-12 15:46:56 --> URI Class Initialized
+INFO - 2020-11-12 15:46:56 --> Router Class Initialized
+INFO - 2020-11-12 15:46:56 --> Output Class Initialized
+INFO - 2020-11-12 15:46:56 --> Security Class Initialized
+INFO - 2020-11-12 15:46:56 --> Input Class Initialized
+INFO - 2020-11-12 15:46:56 --> Language Class Initialized
+ERROR - 2020-11-12 15:46:56 --> 404 Page Not Found: Robotstxt/index
+INFO - 2020-11-12 15:46:56 --> Config Class Initialized
+INFO - 2020-11-12 15:46:56 --> Hooks Class Initialized
+INFO - 2020-11-12 15:46:56 --> Utf8 Class Initialized
+INFO - 2020-11-12 15:46:56 --> URI Class Initialized
+INFO - 2020-11-12 15:46:56 --> Router Class Initialized
+INFO - 2020-11-12 15:46:56 --> Output Class Initialized
+INFO - 2020-11-12 15:46:56 --> Security Class Initialized
+INFO - 2020-11-12 15:46:56 --> Input Class Initialized
+INFO - 2020-11-12 15:46:56 --> Language Class Initialized
+INFO - 2020-11-12 15:46:56 --> Loader Class Initialized
+INFO - 2020-11-12 15:46:56 --> Helper loaded: url_helper
+INFO - 2020-11-12 15:46:56 --> Helper loaded: file_helper
+INFO - 2020-11-12 15:46:56 --> Helper loaded: security_helper
+INFO - 2020-11-12 15:46:56 --> Helper loaded: login_helper
+INFO - 2020-11-12 15:46:56 --> Database Driver Class Initialized
+INFO - 2020-11-12 15:46:56 --> Email Class Initialized
+INFO - 2020-11-12 15:46:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 15:46:56 --> Helper loaded: form_helper
+INFO - 2020-11-12 15:46:56 --> Form Validation Class Initialized
+INFO - 2020-11-12 15:46:56 --> Controller Class Initialized
+INFO - 2020-11-12 15:46:56 --> Model "Menu_model" initialized
+INFO - 2020-11-12 15:46:56 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 15:46:56 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 15:46:56 --> Final output sent to browser
+INFO - 2020-11-12 16:18:53 --> Config Class Initialized
+INFO - 2020-11-12 16:18:53 --> Hooks Class Initialized
+INFO - 2020-11-12 16:18:53 --> Utf8 Class Initialized
+INFO - 2020-11-12 16:18:53 --> URI Class Initialized
+INFO - 2020-11-12 16:18:53 --> Router Class Initialized
+INFO - 2020-11-12 16:18:53 --> Output Class Initialized
+INFO - 2020-11-12 16:18:53 --> Security Class Initialized
+INFO - 2020-11-12 16:18:53 --> Input Class Initialized
+INFO - 2020-11-12 16:18:53 --> Language Class Initialized
+INFO - 2020-11-12 16:18:53 --> Loader Class Initialized
+INFO - 2020-11-12 16:18:53 --> Helper loaded: url_helper
+INFO - 2020-11-12 16:18:53 --> Helper loaded: file_helper
+INFO - 2020-11-12 16:18:53 --> Helper loaded: security_helper
+INFO - 2020-11-12 16:18:53 --> Helper loaded: login_helper
+INFO - 2020-11-12 16:18:53 --> Database Driver Class Initialized
+INFO - 2020-11-12 16:18:53 --> Email Class Initialized
+INFO - 2020-11-12 16:18:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 16:18:53 --> Helper loaded: form_helper
+INFO - 2020-11-12 16:18:53 --> Form Validation Class Initialized
+INFO - 2020-11-12 16:18:53 --> Controller Class Initialized
+INFO - 2020-11-12 16:18:53 --> Model "Menu_model" initialized
+INFO - 2020-11-12 16:18:53 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 16:18:53 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 16:18:53 --> Final output sent to browser
+INFO - 2020-11-12 17:14:04 --> Config Class Initialized
+INFO - 2020-11-12 17:14:04 --> Hooks Class Initialized
+INFO - 2020-11-12 17:14:04 --> Utf8 Class Initialized
+INFO - 2020-11-12 17:14:04 --> URI Class Initialized
+INFO - 2020-11-12 17:14:04 --> Router Class Initialized
+INFO - 2020-11-12 17:14:04 --> Output Class Initialized
+INFO - 2020-11-12 17:14:04 --> Security Class Initialized
+INFO - 2020-11-12 17:14:04 --> Input Class Initialized
+INFO - 2020-11-12 17:14:04 --> Language Class Initialized
+INFO - 2020-11-12 17:14:04 --> Loader Class Initialized
+INFO - 2020-11-12 17:14:04 --> Helper loaded: url_helper
+INFO - 2020-11-12 17:14:04 --> Helper loaded: file_helper
+INFO - 2020-11-12 17:14:04 --> Helper loaded: security_helper
+INFO - 2020-11-12 17:14:04 --> Helper loaded: login_helper
+INFO - 2020-11-12 17:14:04 --> Database Driver Class Initialized
+INFO - 2020-11-12 17:14:04 --> Email Class Initialized
+INFO - 2020-11-12 17:14:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 17:14:04 --> Helper loaded: form_helper
+INFO - 2020-11-12 17:14:04 --> Form Validation Class Initialized
+INFO - 2020-11-12 17:14:04 --> Controller Class Initialized
+INFO - 2020-11-12 17:14:04 --> Model "Menu_model" initialized
+INFO - 2020-11-12 17:14:04 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 17:14:04 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 17:14:04 --> Final output sent to browser
+INFO - 2020-11-12 17:16:10 --> Config Class Initialized
+INFO - 2020-11-12 17:16:10 --> Hooks Class Initialized
+INFO - 2020-11-12 17:16:10 --> Utf8 Class Initialized
+INFO - 2020-11-12 17:16:10 --> URI Class Initialized
+INFO - 2020-11-12 17:16:10 --> Router Class Initialized
+INFO - 2020-11-12 17:16:10 --> Output Class Initialized
+INFO - 2020-11-12 17:16:10 --> Security Class Initialized
+INFO - 2020-11-12 17:16:10 --> Input Class Initialized
+INFO - 2020-11-12 17:16:10 --> Language Class Initialized
+INFO - 2020-11-12 17:16:10 --> Loader Class Initialized
+INFO - 2020-11-12 17:16:10 --> Helper loaded: url_helper
+INFO - 2020-11-12 17:16:10 --> Helper loaded: file_helper
+INFO - 2020-11-12 17:16:10 --> Helper loaded: security_helper
+INFO - 2020-11-12 17:16:10 --> Helper loaded: login_helper
+INFO - 2020-11-12 17:16:10 --> Database Driver Class Initialized
+INFO - 2020-11-12 17:16:10 --> Email Class Initialized
+INFO - 2020-11-12 17:16:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 17:16:10 --> Helper loaded: form_helper
+INFO - 2020-11-12 17:16:10 --> Form Validation Class Initialized
+INFO - 2020-11-12 17:16:10 --> Controller Class Initialized
+INFO - 2020-11-12 17:16:10 --> Model "Menu_model" initialized
+INFO - 2020-11-12 17:16:10 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 17:16:10 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 17:16:10 --> Final output sent to browser
+INFO - 2020-11-12 17:35:06 --> Config Class Initialized
+INFO - 2020-11-12 17:35:06 --> Hooks Class Initialized
+INFO - 2020-11-12 17:35:06 --> Utf8 Class Initialized
+INFO - 2020-11-12 17:35:06 --> URI Class Initialized
+INFO - 2020-11-12 17:35:06 --> Router Class Initialized
+INFO - 2020-11-12 17:35:06 --> Output Class Initialized
+INFO - 2020-11-12 17:35:06 --> Security Class Initialized
+INFO - 2020-11-12 17:35:06 --> Input Class Initialized
+INFO - 2020-11-12 17:35:06 --> Language Class Initialized
+INFO - 2020-11-12 17:35:06 --> Loader Class Initialized
+INFO - 2020-11-12 17:35:06 --> Helper loaded: url_helper
+INFO - 2020-11-12 17:35:06 --> Helper loaded: file_helper
+INFO - 2020-11-12 17:35:06 --> Helper loaded: security_helper
+INFO - 2020-11-12 17:35:06 --> Helper loaded: login_helper
+INFO - 2020-11-12 17:35:06 --> Database Driver Class Initialized
+INFO - 2020-11-12 17:35:06 --> Email Class Initialized
+INFO - 2020-11-12 17:35:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 17:35:06 --> Helper loaded: form_helper
+INFO - 2020-11-12 17:35:06 --> Form Validation Class Initialized
+INFO - 2020-11-12 17:35:06 --> Controller Class Initialized
+INFO - 2020-11-12 17:35:06 --> Model "Menu_model" initialized
+INFO - 2020-11-12 17:35:06 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 17:35:06 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 17:35:06 --> Final output sent to browser
+INFO - 2020-11-12 17:35:09 --> Config Class Initialized
+INFO - 2020-11-12 17:35:09 --> Hooks Class Initialized
+INFO - 2020-11-12 17:35:09 --> Utf8 Class Initialized
+INFO - 2020-11-12 17:35:09 --> URI Class Initialized
+INFO - 2020-11-12 17:35:09 --> Router Class Initialized
+INFO - 2020-11-12 17:35:09 --> Output Class Initialized
+INFO - 2020-11-12 17:35:09 --> Security Class Initialized
+INFO - 2020-11-12 17:35:09 --> Input Class Initialized
+INFO - 2020-11-12 17:35:09 --> Language Class Initialized
+ERROR - 2020-11-12 17:35:09 --> 404 Page Not Found: Assets/favicon
+INFO - 2020-11-12 18:02:48 --> Config Class Initialized
+INFO - 2020-11-12 18:02:48 --> Hooks Class Initialized
+INFO - 2020-11-12 18:02:48 --> Utf8 Class Initialized
+INFO - 2020-11-12 18:02:48 --> URI Class Initialized
+INFO - 2020-11-12 18:02:48 --> Router Class Initialized
+INFO - 2020-11-12 18:02:48 --> Output Class Initialized
+INFO - 2020-11-12 18:02:48 --> Security Class Initialized
+INFO - 2020-11-12 18:02:48 --> Input Class Initialized
+INFO - 2020-11-12 18:02:48 --> Language Class Initialized
+INFO - 2020-11-12 18:02:48 --> Loader Class Initialized
+INFO - 2020-11-12 18:02:48 --> Helper loaded: url_helper
+INFO - 2020-11-12 18:02:48 --> Helper loaded: file_helper
+INFO - 2020-11-12 18:02:48 --> Helper loaded: security_helper
+INFO - 2020-11-12 18:02:48 --> Helper loaded: login_helper
+INFO - 2020-11-12 18:02:48 --> Database Driver Class Initialized
+INFO - 2020-11-12 18:02:48 --> Email Class Initialized
+INFO - 2020-11-12 18:02:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 18:02:48 --> Helper loaded: form_helper
+INFO - 2020-11-12 18:02:48 --> Form Validation Class Initialized
+INFO - 2020-11-12 18:02:48 --> Controller Class Initialized
+INFO - 2020-11-12 18:02:48 --> Model "Menu_model" initialized
+INFO - 2020-11-12 18:02:48 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 18:02:48 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 18:02:48 --> Final output sent to browser
+INFO - 2020-11-12 18:16:49 --> Config Class Initialized
+INFO - 2020-11-12 18:16:49 --> Hooks Class Initialized
+INFO - 2020-11-12 18:16:49 --> Utf8 Class Initialized
+INFO - 2020-11-12 18:16:49 --> URI Class Initialized
+INFO - 2020-11-12 18:16:49 --> Router Class Initialized
+INFO - 2020-11-12 18:16:49 --> Output Class Initialized
+INFO - 2020-11-12 18:16:49 --> Security Class Initialized
+INFO - 2020-11-12 18:16:49 --> Input Class Initialized
+INFO - 2020-11-12 18:16:49 --> Language Class Initialized
+INFO - 2020-11-12 18:16:49 --> Loader Class Initialized
+INFO - 2020-11-12 18:16:49 --> Helper loaded: url_helper
+INFO - 2020-11-12 18:16:49 --> Helper loaded: file_helper
+INFO - 2020-11-12 18:16:49 --> Helper loaded: security_helper
+INFO - 2020-11-12 18:16:49 --> Helper loaded: login_helper
+INFO - 2020-11-12 18:16:49 --> Database Driver Class Initialized
+INFO - 2020-11-12 18:16:49 --> Email Class Initialized
+INFO - 2020-11-12 18:16:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 18:16:49 --> Helper loaded: form_helper
+INFO - 2020-11-12 18:16:49 --> Form Validation Class Initialized
+INFO - 2020-11-12 18:16:49 --> Controller Class Initialized
+INFO - 2020-11-12 18:16:49 --> Model "Menu_model" initialized
+INFO - 2020-11-12 18:16:49 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 18:16:49 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 18:16:49 --> Final output sent to browser
+INFO - 2020-11-12 18:16:51 --> Config Class Initialized
+INFO - 2020-11-12 18:16:51 --> Hooks Class Initialized
+INFO - 2020-11-12 18:16:51 --> Utf8 Class Initialized
+INFO - 2020-11-12 18:16:51 --> URI Class Initialized
+INFO - 2020-11-12 18:16:51 --> Router Class Initialized
+INFO - 2020-11-12 18:16:51 --> Output Class Initialized
+INFO - 2020-11-12 18:16:51 --> Security Class Initialized
+INFO - 2020-11-12 18:16:51 --> Input Class Initialized
+INFO - 2020-11-12 18:16:51 --> Language Class Initialized
+INFO - 2020-11-12 18:16:51 --> Loader Class Initialized
+INFO - 2020-11-12 18:16:51 --> Helper loaded: url_helper
+INFO - 2020-11-12 18:16:51 --> Helper loaded: file_helper
+INFO - 2020-11-12 18:16:51 --> Helper loaded: security_helper
+INFO - 2020-11-12 18:16:51 --> Helper loaded: login_helper
+INFO - 2020-11-12 18:16:51 --> Database Driver Class Initialized
+INFO - 2020-11-12 18:16:51 --> Email Class Initialized
+INFO - 2020-11-12 18:16:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 18:16:51 --> Helper loaded: form_helper
+INFO - 2020-11-12 18:16:51 --> Form Validation Class Initialized
+INFO - 2020-11-12 18:16:51 --> Controller Class Initialized
+INFO - 2020-11-12 18:16:51 --> Model "Menu_model" initialized
+INFO - 2020-11-12 18:16:51 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 18:16:51 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 18:16:51 --> Final output sent to browser
+INFO - 2020-11-12 18:16:52 --> Config Class Initialized
+INFO - 2020-11-12 18:16:52 --> Hooks Class Initialized
+INFO - 2020-11-12 18:16:52 --> Utf8 Class Initialized
+INFO - 2020-11-12 18:16:52 --> URI Class Initialized
+INFO - 2020-11-12 18:16:52 --> Router Class Initialized
+INFO - 2020-11-12 18:16:52 --> Output Class Initialized
+INFO - 2020-11-12 18:16:52 --> Security Class Initialized
+INFO - 2020-11-12 18:16:52 --> Input Class Initialized
+INFO - 2020-11-12 18:16:52 --> Language Class Initialized
+INFO - 2020-11-12 18:16:52 --> Loader Class Initialized
+INFO - 2020-11-12 18:16:52 --> Helper loaded: url_helper
+INFO - 2020-11-12 18:16:52 --> Helper loaded: file_helper
+INFO - 2020-11-12 18:16:52 --> Helper loaded: security_helper
+INFO - 2020-11-12 18:16:52 --> Helper loaded: login_helper
+INFO - 2020-11-12 18:16:52 --> Database Driver Class Initialized
+INFO - 2020-11-12 18:16:52 --> Email Class Initialized
+INFO - 2020-11-12 18:16:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 18:16:52 --> Helper loaded: form_helper
+INFO - 2020-11-12 18:16:52 --> Form Validation Class Initialized
+INFO - 2020-11-12 18:16:52 --> Controller Class Initialized
+INFO - 2020-11-12 18:16:52 --> Model "Menu_model" initialized
+INFO - 2020-11-12 18:16:52 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 18:16:52 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 18:16:52 --> Final output sent to browser
+INFO - 2020-11-12 18:17:10 --> Config Class Initialized
+INFO - 2020-11-12 18:17:10 --> Hooks Class Initialized
+INFO - 2020-11-12 18:17:10 --> Utf8 Class Initialized
+INFO - 2020-11-12 18:17:10 --> URI Class Initialized
+INFO - 2020-11-12 18:17:10 --> Router Class Initialized
+INFO - 2020-11-12 18:17:10 --> Output Class Initialized
+INFO - 2020-11-12 18:17:10 --> Security Class Initialized
+INFO - 2020-11-12 18:17:10 --> Input Class Initialized
+INFO - 2020-11-12 18:17:10 --> Language Class Initialized
+ERROR - 2020-11-12 18:17:10 --> 404 Page Not Found: Assets/favicon
+INFO - 2020-11-12 18:17:12 --> Config Class Initialized
+INFO - 2020-11-12 18:17:12 --> Hooks Class Initialized
+INFO - 2020-11-12 18:17:12 --> Utf8 Class Initialized
+INFO - 2020-11-12 18:17:12 --> URI Class Initialized
+INFO - 2020-11-12 18:17:12 --> Router Class Initialized
+INFO - 2020-11-12 18:17:12 --> Output Class Initialized
+INFO - 2020-11-12 18:17:12 --> Security Class Initialized
+INFO - 2020-11-12 18:17:12 --> Input Class Initialized
+INFO - 2020-11-12 18:17:12 --> Language Class Initialized
+ERROR - 2020-11-12 18:17:12 --> 404 Page Not Found: Assets/favicon
+INFO - 2020-11-12 18:20:55 --> Config Class Initialized
+INFO - 2020-11-12 18:20:55 --> Hooks Class Initialized
+INFO - 2020-11-12 18:20:55 --> Utf8 Class Initialized
+INFO - 2020-11-12 18:20:55 --> URI Class Initialized
+INFO - 2020-11-12 18:20:55 --> Router Class Initialized
+INFO - 2020-11-12 18:20:55 --> Output Class Initialized
+INFO - 2020-11-12 18:20:55 --> Security Class Initialized
+INFO - 2020-11-12 18:20:55 --> Input Class Initialized
+INFO - 2020-11-12 18:20:55 --> Language Class Initialized
+INFO - 2020-11-12 18:20:55 --> Loader Class Initialized
+INFO - 2020-11-12 18:20:55 --> Helper loaded: url_helper
+INFO - 2020-11-12 18:20:55 --> Helper loaded: file_helper
+INFO - 2020-11-12 18:20:55 --> Helper loaded: security_helper
+INFO - 2020-11-12 18:20:55 --> Helper loaded: login_helper
+INFO - 2020-11-12 18:20:55 --> Database Driver Class Initialized
+INFO - 2020-11-12 18:20:55 --> Email Class Initialized
+INFO - 2020-11-12 18:20:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 18:20:55 --> Helper loaded: form_helper
+INFO - 2020-11-12 18:20:55 --> Form Validation Class Initialized
+INFO - 2020-11-12 18:20:55 --> Controller Class Initialized
+INFO - 2020-11-12 18:20:55 --> Model "Menu_model" initialized
+INFO - 2020-11-12 18:20:55 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 18:20:55 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 18:20:55 --> Final output sent to browser
+INFO - 2020-11-12 18:20:56 --> Config Class Initialized
+INFO - 2020-11-12 18:20:56 --> Hooks Class Initialized
+INFO - 2020-11-12 18:20:56 --> Utf8 Class Initialized
+INFO - 2020-11-12 18:20:56 --> URI Class Initialized
+INFO - 2020-11-12 18:20:56 --> Router Class Initialized
+INFO - 2020-11-12 18:20:56 --> Output Class Initialized
+INFO - 2020-11-12 18:20:56 --> Security Class Initialized
+INFO - 2020-11-12 18:20:56 --> Input Class Initialized
+INFO - 2020-11-12 18:20:56 --> Language Class Initialized
+ERROR - 2020-11-12 18:20:56 --> 404 Page Not Found: Robotstxt/index
+INFO - 2020-11-12 20:52:15 --> Config Class Initialized
+INFO - 2020-11-12 20:52:15 --> Hooks Class Initialized
+INFO - 2020-11-12 20:52:15 --> Utf8 Class Initialized
+INFO - 2020-11-12 20:52:15 --> URI Class Initialized
+INFO - 2020-11-12 20:52:15 --> Router Class Initialized
+INFO - 2020-11-12 20:52:15 --> Output Class Initialized
+INFO - 2020-11-12 20:52:15 --> Security Class Initialized
+INFO - 2020-11-12 20:52:15 --> Input Class Initialized
+INFO - 2020-11-12 20:52:15 --> Language Class Initialized
+INFO - 2020-11-12 20:52:15 --> Loader Class Initialized
+INFO - 2020-11-12 20:52:15 --> Helper loaded: url_helper
+INFO - 2020-11-12 20:52:15 --> Helper loaded: file_helper
+INFO - 2020-11-12 20:52:15 --> Helper loaded: security_helper
+INFO - 2020-11-12 20:52:15 --> Helper loaded: login_helper
+INFO - 2020-11-12 20:52:15 --> Database Driver Class Initialized
+INFO - 2020-11-12 20:52:15 --> Email Class Initialized
+INFO - 2020-11-12 20:52:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-12 20:52:15 --> Helper loaded: form_helper
+INFO - 2020-11-12 20:52:15 --> Form Validation Class Initialized
+INFO - 2020-11-12 20:52:15 --> Controller Class Initialized
+INFO - 2020-11-12 20:52:15 --> Model "Menu_model" initialized
+INFO - 2020-11-12 20:52:15 --> Model "Alamat_model" initialized
+INFO - 2020-11-12 20:52:15 --> File loaded: /home/u463870951/domains/freshcreativebook.com/public_html/application/views/welcome/index.php
+INFO - 2020-11-12 20:52:15 --> Final output sent to browser
